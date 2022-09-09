@@ -613,6 +613,19 @@
                             </div>
                         </div>
                     </div>
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/feopentov.jpg" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Максим Феопентов
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Директор по развитию цифровых технологий, ЕВРАЗ
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <article class="discus__article">
                     <aside class="discus__aside">
