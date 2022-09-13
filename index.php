@@ -674,7 +674,7 @@
                     </div>
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/team-avatar.png" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/rudakov.jpg" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
@@ -687,7 +687,7 @@
                     </div>
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/team-avatar.png" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/makeev.png" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
