@@ -659,6 +659,45 @@
                             </div>
                         </div>
                     </div>
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/ivlev.jpg" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Олег Ивлев
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Руководитель направления Управление Данными, ПАО "НЛМК"
+                            </div>
+                        </div>
+                    </div>
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/team-avatar.png" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Дмитрий Рудаков
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Начальник отдела архитектуры НСИ, СУЭК
+                            </div>
+                        </div>
+                    </div>
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/team-avatar.png" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Александр Макеев
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Руководитель направления трансформации бизнес-процессов финансов, ПОЛЮС
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <article class="discus__article">
                     <aside class="discus__aside">
