@@ -16,7 +16,7 @@
     background: rgba(0, 0, 0, 0.5);
     backdrop-filter: blur(50px);
     visibility: hidden;
-    overflow: hidden;
+    // overflow: hidden;
     opacity: 0;
     transition:  visibility .3s ease-in-out, opacity .3s ease-in-out;
     transition-delay: .3s;
@@ -35,15 +35,12 @@
     display: flex;
     flex-direction: column;
     background: var(--color-white);
-    max-width: 555px;
+    max-width: 560px;
     width: 100%;
-    padding: 40px 35px 28px;
     overflow-x: hidden;
     border-radius: 10px;
-    margin-top: 90px;
     max-height: 95vh;
     @include mobileXS-block {
-        padding: 16px 15px 30px;
         max-width: 100%;
     }
 }
@@ -56,11 +53,15 @@
     width: 30px;
     height: 30px;
     cursor: pointer;
+    @include mobile-block {
+        width: 15px;
+        height: 15px;
+    }
 }
 
 .modal__close-svg {
-    width: 30px;
-    height: 30px;
+    width: 100%;
+    height: 100%;
     fill: var(--color-black);
     stroke: var(--color-black);
 }

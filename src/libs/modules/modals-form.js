@@ -6,7 +6,7 @@ function init() {
         linkAttributeName: "data-modal",
         catchFocus: true,
         waitTransitions: true,
-        backscroll: false
+        backscroll: true
     });
         
 }

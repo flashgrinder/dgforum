@@ -24,9 +24,6 @@
                         <path d="M1 1L12 12M12 1L1 12" stroke-width="1.5" stroke-linecap="round"/>
                     </svg>
                 </div>
-                <h3 class="modal__title modal__field--anim title title--large title--dark title--w-regular center">
-                    Регистрация
-                </h3>
                 <script src="https://dis-group.comdi.com/player/js/embed.min.js" type="text/javascript" data-comdi-event="ewgogxsc"></script>
             </div>
         </div>
