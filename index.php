@@ -31,6 +31,19 @@
     </section>
     <!-- /. Main-screen -->
 
+    <!-- Invite -->
+    <section class="invite block-padding">
+        <div class="invite__body container">
+            <h2 class="invite__heading title--big title--dark title--w-semibold title--indent">
+                Приглашаем на форум
+            </h2>
+            <div class="invite__video">
+                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/oQFhze1-v_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+    </section>
+    <!-- /. Invite -->
+
     <!-- About -->
     <section class="about block-padding" id="event">
         <div class="about__decor about__decor--top">
@@ -626,6 +639,19 @@
                             </div>
                         </div>
                     </div>
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/zolotarev.jpg" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Сергей Золотарев
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Генеральный директор,  Arenadata
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <article class="discus__article">
                     <aside class="discus__aside">
@@ -800,6 +826,19 @@
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
                                 Заместитель генерального директора по розничному бизнесу, СПАО «Ингосстрах»
+                            </div>
+                        </div>
+                    </div>
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/borovleeva.jpg" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Ирина Боровлева
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Эксперт в области управления знаниями, DIS Group
                             </div>
                         </div>
                     </div>

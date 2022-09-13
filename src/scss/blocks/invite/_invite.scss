@@ -1,0 +1,12 @@
+.invite__video iframe {
+    width: 100%;
+    height: 100vh;
+    max-height: 600px;
+    max-width: 1160px;
+    @include mobile-block {
+        height: 45vh;
+    }
+    @include mobileXS-block {
+        height: 25vh;
+    }
+}
