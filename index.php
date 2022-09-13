@@ -896,7 +896,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:25 - 10:40
+                        10:25 - 10:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -906,17 +906,25 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:40 - 11:00
+                        10:30 - 10:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            На пути к цифровому суверенитету
+                            Платформа данных для химической промышленности. Финалист Data Award 2022.
                         </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Дмитрий Шведов
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Заместитель руководителя департамента цифровизации, АО "ОХК "Уралхим"
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        11:00 - 11:30
+                        10:50 - 11:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -936,12 +944,35 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        11:40 - 12:10
+                        11:40 - 11:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Путеводитель по галактике ваших данных - единая Data Platform
+                            Ожидается облачность? Интервью с  Яндекс.Cloud
                         </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Представитель Яндекс. Сloud
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        11:50 - 12:10
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Построение эффективного офиса СDO и его влияние на ключевые показатели сервисной компании.
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Сергей Бондарев
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                СDО, АО "ПГК"
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -950,13 +981,21 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Быть на шаг ближе. Персонализация. Качество. Интеграция.
+                            Путеводитель по галактике ваших данных - единая Data Platform
                         </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Виталий Фокин
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Эксперт DIS Group
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:30 - 13:00
+                        12:30 - 13:05
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -966,17 +1005,43 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:00 - 13:30
+                        13:05 - 13:25
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Мастер-данные – кристаллическая решетка цифровой компании
+                            Платформа данных для розничного бизнеса
                         </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Алексей Точилов
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                М.Видео - Эльдорадо
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:30 - 14:00
+                        13:25 - 13:40
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            MДМ
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Серафим Бородин 
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Эксперт DIS Group
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        13:40 - 14:20
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -986,27 +1051,65 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        14:00 - 14:30
+                        14:20 - 14:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Обед
+                            Перерыв
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        14:30 - 15:00
+                        14:30 - 14:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Автоматизация операционной деятельности. Снова в приоритете.
+                            Импортозамещение: обзор первой российской линейки Plus7
                         </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Олег Гиацинтов
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Технический директор DIS Group
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:00 - 15:40
+                        14:50 - 15:00
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Миграция на отечественные решения хранения и обработки данных
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Представитель Аренадаты
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        15:00 - 15:10
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Платформа бизнес аналитики Luxms BI
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Представитель Luxms
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        15:10 - 15:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1016,7 +1119,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:40 - 16:00
+                        15:50 - 16:10
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1026,7 +1129,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:00 - 16:15
+                        16:10 - 16:25
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1036,7 +1139,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:15 - 16:45
+                        16:25 - 17:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1046,7 +1149,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:45 - 17:00
+                        17:00 - 17:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
