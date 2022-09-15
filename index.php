@@ -99,6 +99,33 @@
     </section>
     <!-- /. About -->
 
+    <!-- Labs -->
+    <section class="labs block-padding">
+        <div class="labs__body container">
+            <h2 class="labs__heading title--big title--dark title--w-semibold title--indent">
+                Лаборатория DIS Group Forum
+            </h2>
+            <div class="labs__inner">
+                <div class="labs__text text text--large text--dark text--w-regular gs-reveal gs-reveal--from-left">
+                    🧪 Как создать химию между компанией и её данными?
+                    <br>
+                    <br>
+                    🗣 Как выговорить "катализатор цифровизации" и что это означает?
+                    <br>
+                    <br>
+                    22 сентября творческий дуэт "Сёстры Зайцевы" вместе со спикерами - представителями крупных компаний ответят на эти вопросы!
+                    <br>
+                    <br>
+                    👉🏻 Захватывающие опыты и эксперименты - в лаборатории DIS Group Forum
+                </div>
+                <div class="labs__video">
+                    <iframe class="labs__video-frame" width="560" height="315" src="https://www.youtube.com/embed/GqNYo2w0mIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- /. Labss -->
+
     <!-- Register -->
     <section class="register block-padding">
         <div class="register__body container">
