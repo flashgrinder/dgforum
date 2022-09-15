@@ -1,0 +1,15 @@
+.labs__inner {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(358px, 1fr));
+    grid-gap: 50px;
+    align-items: center;
+    @include tabletSM-block {
+        grid-template-columns: 1fr;
+    }
+}
+
+.labs__video-frame {
+    @include tabletSM-block {
+        width: 100%;
+    }
+}

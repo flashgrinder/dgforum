@@ -1579,6 +1579,15 @@ img {
   max-width: 1160px;
 }
 
+/* Labs */
+
+.labs__inner {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(358px, 1fr));
+  grid-gap: 50px;
+  align-items: center;
+}
+
 /* Footer */
 
 .footer {
@@ -1738,6 +1747,16 @@ img {
   .team__items {
     grid-template-columns: repeat(1, minmax(0, 1fr));
     grid-gap: 50px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .labs__inner {
+    grid-template-columns: 1fr;
+  }
+
+  .labs__video-frame {
+    width: 100%;
   }
 }
 
