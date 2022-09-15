@@ -1028,6 +1028,10 @@
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             MДМ
+                            <br> 
+                            Роль данных на производстве.
+                            <br>
+                            Пример одной компании.
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
@@ -1087,7 +1091,10 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Представитель Аренадаты
+                                Антон Балагаев
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Директор по консалтингу Аренадата
                             </div>
                         </div>
                     </div>
@@ -1102,7 +1109,10 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Представитель Luxms
+                                Александр Тютюнник
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Директор по развитию бизнеса ГК Luxms
                             </div>
                         </div>
                     </div>
