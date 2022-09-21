@@ -30,6 +30,11 @@
     transition-delay: 0s;
 }
 
+.hystmodal__wrap {
+    display: block;
+    flex-shrink: 1;
+}
+
 .modal__body {
     position: relative;
     display: flex;
@@ -38,8 +43,9 @@
     max-width: 560px;
     width: 100%;
     overflow-x: hidden;
+    overflow-y: auto;
     border-radius: 10px;
-    max-height: 95vh;
+    margin: 50px auto;
     @include mobileXS-block {
         max-width: 100%;
     }
