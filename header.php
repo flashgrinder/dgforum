@@ -40,12 +40,12 @@
                 <nav class="header__menu menu">
                     <ul class="header__menu-list menu__list">
                         <li class="header__menu-item menu__item js-anchor-link">
-                            <a href="./#event" class="menu__link">
+                            <a href="<?php echo home_url(); ?>#event" class="menu__link">
                                 О мероприятии
                             </a>
                         </li>
                         <li class="header__menu-item menu__item js-anchor-link">
-                            <a href="./#discussions" class="menu__link">
+                            <a href="<?php echo home_url(); ?>#discussions" class="menu__link">
                                 Дискуссии
                             </a>
                         </li>
@@ -55,7 +55,7 @@
                             </a>
                         </li>
                         <li class="header__menu-item menu__item js-anchor-link">
-                            <a href="./#partners" class="menu__link">
+                            <a href="<?php echo home_url(); ?>#partners" class="menu__link">
                                 Партнёры
                             </a>
                         </li>
