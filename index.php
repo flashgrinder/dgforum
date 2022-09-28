@@ -22,7 +22,7 @@
                     </div>
                     <div class="main-screen__actions">
                         <a href="javascript:;" class="main-screen__button button button--primary" data-modal="#registration">
-                            Зарегистрироваться
+                            Смотреть трансляцию
                         </a>
                     </div>
                 </div>
@@ -138,7 +138,7 @@
                 </p>
                 <div class="register__action gs-reveal gs-reveal--from-left">
                     <a href="javascript:;" class="register__button button button--primary" data-modal="#registration">
-                        Зарегистрироваться
+                        Смотреть трансляцию
                     </a>
                 </div>
             </div>
@@ -905,7 +905,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:05 - 10:25
+                        10:05 - 10:20
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -923,7 +923,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:25 - 10:30
+                        10:20 - 10:25
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -933,7 +933,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:30 - 10:50
+                        10:25 - 10:45
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -951,7 +951,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:50 - 11:30
+                        10:45 - 11:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1022,7 +1022,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:30 - 13:05
+                        12:35 - 13:10
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1032,7 +1032,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:05 - 13:25
+                        13:10 - 13:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1050,7 +1050,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:25 - 13:45
+                        13:30 - 13:45
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1128,7 +1128,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:00 - 15:10
+                        15:00 - 15:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1146,7 +1146,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:10 - 15:50
+                        15:15 - 15:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1162,21 +1162,37 @@
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Быстрый омниканальный доступ к релевантной информации - залог  эффективность внешних и внутренних коммуникаций
                         </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Ирина Боровлева
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Эксперт DIS Group
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:10 - 16:25
+                        16:10 - 16:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Современный сотрудник - цифровой сотрудник!
                         </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Игорь Кудинов
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Эксперт DIS Group
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:25 - 17:00
+                        16:30 - 17:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1186,7 +1202,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        17:00 - 17:15
+                        17:15 - 17:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1211,7 +1227,7 @@
                 </p>
                 <div class="register__action gs-reveal gs-reveal--from-left">
                     <a href="javascript:;" class="register__button button button--primary" data-modal="#registration">
-                        Зарегистрироваться
+                        Смотреть трансляцию
                     </a>
                 </div>
             </div>
