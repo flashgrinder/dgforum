@@ -31,7 +31,7 @@
     <!-- /. Modal -->
 
     <!-- Header -->
-    <header class="header">
+    <header class="header <?php echo !is_home() ? 'header--content' : '' ?>">
         <div class="header__body container">
             <a href="<?php echo home_url(); ?>" class="header__logo logo">
                 <img src="<?php echo STANDART_DIR; ?>img/logo.svg" alt="" class="header__logo-img logo__img">
@@ -40,12 +40,12 @@
                 <nav class="header__menu menu">
                     <ul class="header__menu-list menu__list">
                         <li class="header__menu-item menu__item js-anchor-link">
-                            <a href="#event" class="menu__link">
+                            <a href="./#event" class="menu__link">
                                 О мероприятии
                             </a>
                         </li>
                         <li class="header__menu-item menu__item js-anchor-link">
-                            <a href="#discussions" class="menu__link">
+                            <a href="./#discussions" class="menu__link">
                                 Дискуссии
                             </a>
                         </li>
@@ -55,7 +55,7 @@
                             </a>
                         </li>
                         <li class="header__menu-item menu__item js-anchor-link">
-                            <a href="#partners" class="menu__link">
+                            <a href="./#partners" class="menu__link">
                                 Партнёры
                             </a>
                         </li>
