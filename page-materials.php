@@ -17,6 +17,9 @@
         <h2 class="programm__heading title--big title--dark title--w-semibold title--indent">
             Программа мероприятия
         </h2>
+        <p class="programm__subtitle title title--medium title--dark title--w-regular">
+            22 cентября 2022 года
+        </p>
         <div class="programm__list">
             <div class="programm__item">
                 <div class="programm__time title title--medium title--dark title--w-regular">
