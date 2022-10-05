@@ -232,7 +232,7 @@
                         </div>
                     </div>
                     <div class="programm__actions">
-                        <a href="https://youtu.be/gddX2xC5wo8" class="programm__btn button button--secondary" target="_blank">
+                        <a href="https://www.youtube.com/watch?v=gddX2xC5wo8" class="programm__btn button button--secondary" target="_blank">
                             Смотреть видео
                         </a>
                     </div>
