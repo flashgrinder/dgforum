@@ -24,7 +24,10 @@
                         <path d="M1 1L12 12M12 1L1 12" stroke-width="1.5" stroke-linecap="round"/>
                     </svg>
                 </div>
-                <script src="https://dis-group.comdi.com/player/js/embed.min.js" type="text/javascript" data-comdi-event="ewgogxsc"></script>
+                <h3 class="modal__title modal__field--anim title title--large title--dark title--w-regular center">
+                    Получить материалы форума
+                </h3>
+                <?php echo do_shortcode( '[contact-form-7 id="5" title="Регистрация" html_class="modal__form"]' ); ?>
             </div>
         </div>
     </div>
