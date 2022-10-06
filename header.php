@@ -27,7 +27,37 @@
                 <h3 class="modal__title modal__field--anim title title--large title--dark title--w-regular center">
                     Получить материалы форума
                 </h3>
-                <?php echo do_shortcode( '[contact-form-7 id="5" title="Регистрация" html_class="modal__form"]' ); ?>
+                <form action="https://email.dis-group.info/add_subscriber.html" accept-charset="utf-8" method="post" class="modal__form wpcf7-form">
+                    <!-- Fields -->
+                    <div class="modal__field">
+                    <input type="text" name="name" class="modal__input" placeholder="Ваше имя"required/>
+                    </div>
+                    <div class="modal__field">
+                    <input name="custom_telephone" type="text" class="modal__input" placeholder="Номер телефона" value="" required/>
+                    </div>
+                    <div class="modal__field">
+                    <input type="text" name="email" class="modal__input" placeholder="Email" required/>
+                    </div>
+                    <div class="modal__field">
+                    <input name="custom_company" type="text" value="" class="modal__input" placeholder="Компания" required/>
+                    </div>
+                    <div class="modal__field">
+                    <input name="custom_jobtitle" type="text" value="" class="modal__input" placeholder="Должность" required/>
+                    </div>
+                    <div class="modal__agree-text">
+                    <input id="webform_consent#g_0" type="checkbox" name="webform[consent#g-ver#g]" value="true" checked required/><label for="webform_consent#g_0" style="display: block; margin-top: -20px; margin-left: 20px;"> Даю согласие на обработку персональных данных.</label>
+                    <input id="webform_consent#P_0" type="checkbox" name="webform[consent#P-ver#P]" value="true" checked required/><label for="webform_consent#P_0" style="display: block; margin-top: -20px; margin-left: 20px;"> Да, я хотел бы получать сообщения от DIS Group о продуктах, решениях и событиях.</label></br>
+                    </div>
+                    <!-- List token -->
+                    <!-- Get the token at: https://email.dis-group.info/campaign_list.html -->
+                    <input type="hidden" name="campaign_token" value="oMCn4" />
+                    <!-- Thank you page (optional) -->
+                    <!-- <input type="hidden" name="thankyou_url" value="https://dis-group.ru/thanks/"/> -->
+                    <!-- Subscriber button -->
+                    <div class="modal__actions">
+                    <input type="submit" value="Скачать" style="font-size: 18px; font-weight: bold;" class="modal__btn button button--primary"/>
+                    </div>
+                </form>
             </div>
         </div>
     </div>
