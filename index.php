@@ -6,27 +6,46 @@
             <div class="main-screen__body container">
                 <div class="main-screen__text">
                     <h1 class="main-screen__title title--indent">
-                        <span class="main-screen__title-dis title title--big title--white title--w-semibold">
-                            DIS GROUP
+                        <span class="main-screen__title-dis title title--big title--white title--w-semibold title--uppercase">
+                            Дата Саммит
                         </span>
-                        <span class="main-screen__title-forum title title--big title--white title--w-light">
+                        <!-- <span class="main-screen__title-forum title title--big title--white title--w-light">
                             FO<span class="main-screen__title-ext" data-num="44">Ru</span>M
-                        </span>
+                        </span> -->
                     </h1>
                     <h2 class="main-screen__subtitle">
-                        <span class="title title--medium title--white title--w-semibold">Данные</span>
-                        <span class="title title--medium title--white title--w-light"> – катализатор цифровизации</span> 
+                        <span class="title title--medium title--white title--w-light">Вселенная ваших данных</span>
+                        <!-- <span class="title title--medium title--white title--w-light"> – катализатор цифровизации</span>  -->
                     </h2>
-                    <div class="main-screen__date title title--medium title--white title--w-light">
-                        22 сентября 2022
+                    <div class="main-screen__date title title--large title--white title--w-bold">
+                        25 мая 2023
                     </div>
                     <div class="main-screen__actions">
                         <a href="javascript:;" class="main-screen__button button button--primary" data-modal="#registration">
-                            Смотреть форум в записи
+                            Зарегистрироваться
                         </a>
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="main-screen__lines a-lines-container-moving" data-reveal>
+            <div class="line neon purple decor line-1-1 a-line"></div>
+            <div class="line neon green decor line-1-2 a-line"></div>
+            <div class="line neon blue decor line-1-3 a-line"></div>
+            <div class="line neon blue decor line-1-4 a-line"></div>
+            <div class="line neon blue decor line-1-5 a-line"></div>
+            <div class="line neon blue decor line-1-6 a-line"></div>
+            <div class="line neon blue decor line-1-7 a-line"></div>
+            <div class="line neon blue decor line-1-8 a-line"></div>
+            <div class="line neon blue decor line-1-9 a-line"></div>
+            <div class="line neon purple decor line-1-10 a-line"></div>
+            <div class="line neon blue decor line-1-11 a-line"></div>
+            <div class="line neon blue decor line-1-12 a-line"></div>
+            <div class="line neon blue decor line-1-13 a-line"></div>
+            <div class="line neon blue decor line-1-14 a-line"></div>
+            <div class="line neon green decor line-1-15 a-line"></div>
+            <div class="line neon green decor line-1-16 a-line"></div>
+            <div class="line neon blue decor line-1-17 a-line"></div>
         </div>
     </section>
     <!-- /. Main-screen -->
@@ -54,40 +73,41 @@
         </div>
         <div class="about__body container">
             <h3 class="about__subheading title title--large title--dark title--w-light">
-                Что общего между <span class="about__text-accent">директором по данным</span> и профессором химии?
+                Вселенная <span class="about__text-accent">данных</span> постоянно расширяется.
             </h3>
             <h3 class="about__subheading title title--large title--dark title--w-light">
-                Вы управляете <span class="about__text-accent">сложнейшими процессами</span>. Вы отвечаете за <span class="about__text-accent">создание инноваций</span>. Ваша команда знает, как <span class="about__text-accent">повысить эффективность</span> и сократить издержки.
+                По самым скромным подсчётам, к <span class="about__text-accent">2025 году</span> их объём составит более 180 зеттабайт.
+                Чтобы покорять эти космические просторы, нужны современная методология, профессиональная команда и мощные <span class="about__text-accent">российские технологии</span>. 
             </h3>
             <div class="about__grid">
                 <div class="about__column">
                     <h2 class="about__title title title--big title--dark title--w-light">
-                        Меняйте данность
+                        Вселенная данных?
                     </h2>
                     <h2 class="about__title title title--big title--blue title--w-light">
-                        Управляйте данными
+                        Вселенная возможностей!
                     </h2>
                 </div>
                 <div class="about__column">
                     <div class="about__text">
                         <p class="about__descr text text--large text--dark text--w-semibold">
-                            Как превратить <span class="about__text-accent">данные</span> в катализатор цифрового развития вашей компании?
+                            Как принимать <span class="about__text-accent">ключевые решения</span> со скоростью света?
                         </p>
                     </div>
                     <div class="about__text">
                         <p class="about__descr text text--large text--dark text--w-semibold">
-                            Что делает <span class="about__text-accent">кристаллическую решётку проекта</span> по-настоящему устойчивой?
+                            Чёрные дыры и <span class="about__text-accent">«чёрные лебеди»</span>: как предсказать их появление?
                         </p>
                     </div>
                     <div class="about__text">
                         <p class="about__descr text text--large text--dark text--w-semibold">
-                            Как <span class="about__text-accent">синтезировать цифровой продукт</span> идеальной чистоты и без побочных примесей?
+                            Как с помощью <span class="about__text-accent">данных</span> сделать компанию центром притяжения для клиентов?
                         </p>
                     </div>
                 </div>
             </div>
             <h3 class="about__subheading title title--large title--dark title--w-light">
-                <span class="about__text-accent">Ответы</span> на эти вопросы можно получить в специальной лаборатории DIS Group Forum. Ставить опыты будут <span class="about__text-accent">ведущие эксперты</span> российских компаний!
+                <span class="about__text-accent">Ответы</span> на эти вопросы можно получить на капитанском мостике <span class="about__text-accent">Дата Саммит</span>. Присоединяйтесь!
             </h3>
         </div>
         <div class="about__decor about__decor--bottom">
@@ -103,20 +123,20 @@
     <section class="labs block-padding">
         <div class="labs__body container">
             <h2 class="labs__heading title--big title--dark title--w-semibold title--indent">
-                Лаборатория DIS Group Forum
+                На саммите вы сможете:
             </h2>
             <div class="labs__inner">
                 <div class="labs__text text text--large text--dark text--w-regular gs-reveal gs-reveal--from-left">
-                    🧪 Как создать химию между компанией и её данными?
+                    🎤 Из первых рук узнать о лучших практиках российских компаний на базе отечественных технологий
                     <br>
                     <br>
-                    🗣 Как выговорить "катализатор цифровизации" и что это означает?
+                    🗣 Услышать мнение ведущих экспертов о перспективах российской цифровой трансформации на основе данных 
                     <br>
                     <br>
-                    22 сентября творческий дуэт "Сёстры Зайцевы" вместе со спикерами - представителями крупных компаний ответят на эти вопросы!
+                    ⚙️ Посетить демо-зону решений по управлению данными и выставку технологических партнёров 
                     <br>
                     <br>
-                    👉🏻 Захватывающие опыты и эксперименты - в лаборатории DIS Group Forum
+                    👉🏻 Посмотреть демонстрацию новейшей российской платформы по управлению данными
                 </div>
                 <div class="labs__video">
                     <iframe class="labs__video-frame" width="560" height="315" src="https://www.youtube.com/embed/GqNYo2w0mIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -420,6 +440,132 @@
     <section class="team bg--white block-padding">
         <div class="team__body container">
             <h2 class="team__heading title title--big title--dark title--w-semibold title--indent">
+                К участию приглашены:
+            </h2>
+            <div class="team__items">
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/pavel.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Павел Лихницкий
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Генеральный директор DIS Group
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/shvedov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Дмитрий Шведов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Заместитель руководителя Департамента цифровизации, АО «ОХК «Уралхим»
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/lukovnikov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Алексей Луковников
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Директор Департамента управления данными, Банк России
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/bova.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Светлана Бова
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                CDO, Банк ВТБ
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/sergeev.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Сергей Сергеев
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Директор по цифровым инновациям и IT «Лента»
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/shorohov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Павел Шорохов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Директор департамента по работе с данными, Розничная сеть «Магнит»
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+            </div>
+        </div>
+    </section>
+    <!-- /. Team -->
+
+    <!-- Team -->
+    <section class="team bg--white block-padding">
+        <div class="team__body container">
+            <h2 class="team__heading title title--big title--dark title--w-semibold title--indent">
                 Ключевые спикеры
             </h2>
             <div class="team__items">
@@ -546,7 +692,7 @@
     <section class="discus block-padding" id="discussions">
         <div class="discus__body container">
             <h2 class="discus__heading title title--big title--dark title--w-semibold title--indent">
-                5 ключевых дискуссий о данных
+                3 ключевых дискуссий о данных
             </h2>
             <div class="discus__items">
                 <article class="discus__article">
@@ -556,18 +702,18 @@
                                 01
                             </span>
                             <span class="discus__title-text title title--medium title--dark title--w-regular">
-                                Не теряя уверенности в зоне турбулентности. Новые тренды и направления развития в области Data Governance.
+                                Государственный стандарт. Управление данными или управление на основе данных?
                             </span>
                         </h3>
                         <p class="discus__descr text text--large text--dark text--w-regular">
-                            Новая бизнес-реальность требует новых бизнес. Узнайте, как компании – ключевые игроки российского рынка – перестраивают внутренние процессы и поддерживают эффективность.
+                            Государственное регулирование в сфере работы с данными. Особенности законодательства. Какие направления и технологии приоритетны? Единая цифровая экосистема государства: насколько мы к ней близки? Цифровой рубль и его технологическая опора
                         </p>
                     </aside>
                     <div class="discus__pic">
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-1.jpg" alt="" class="discus__img">
                     </div>
                 </article>
-                <div class="discus__speakers">
+                <div class="discus__speakers hide">
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
                             <img src="<?php echo STANDART_DIR; ?>img/team/sergeev.jpg" alt="" class="discus__speaker-img">
@@ -615,18 +761,18 @@
                                 02
                             </span>
                             <span class="discus__title-text title title--medium title--dark title--w-regular">
-                                Предвидеть непредвиденное. Роль данных в новой реальности.
+                                Управляем по-новому? Платформа по управлению данными: нужно ли строить с нуля? 
                             </span>
                         </h3>
                         <p class="discus__descr text text--large text--dark text--w-regular">
-                            До недавнего времени все активно рассматривали уход в облака. А что сейчас? Изменилась ли повестка? И как компании продолжают работать с данными?
+                            Как ведущие российские компании переходят на отечественные платформы? Практические кейсы и примеры из жизни. Предшествующий опыт: забыть нельзя заимствовать?
                         </p>
                     </aside>
                     <div class="discus__pic">
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-2.jpg" alt="" class="discus__img">
                     </div>
                 </article>
-                <div class="discus__speakers">
+                <div class="discus__speakers hide">
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
                             <img src="<?php echo STANDART_DIR; ?>img/team/shorohov.jpg" alt="" class="discus__speaker-img">
@@ -687,18 +833,18 @@
                                 03
                             </span>
                             <span class="discus__title-text title title--medium title--dark title--w-regular">
-                                На все данные мастер… А может, нужна бригада?
+                                Догнать и перегнать. Как опередить конкурентов и не запутаться в собственных процессах?
                             </span>
                         </h3>
                         <p class="discus__descr text text--large text--dark text--w-regular">
-                            Тренд на создание цифровых экосистем продолжает активно развиваться. Узнайте, планируют ли российские компании создавать такие экосистемы.
+                            Как определить эффективность цифровых проектов? Автоматизация процессов: в каких отраслях она необходима прежде всего? Пять ключей к успешной партнёрской работе: есть ли универсальные рецепты?
                         </p>
                     </aside>
                     <div class="discus__pic">
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-3.jpg" alt="" class="discus__img">
                     </div>
                 </article>
-                <div class="discus__speakers">
+                <div class="discus__speakers hide">
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
                             <img src="<?php echo STANDART_DIR; ?>img/team/shvedov-2.jpg" alt="" class="discus__speaker-img">
@@ -748,124 +894,6 @@
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
                                 Руководитель направления трансформации бизнес-процессов финансов, ПОЛЮС
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <article class="discus__article">
-                    <aside class="discus__aside">
-                        <h3 class="discus__title">
-                            <span class="discus__num title title--pre-medium title--dark title--w-regular">
-                                04
-                            </span>
-                            <span class="discus__title-text title title--medium title--dark title--w-regular">
-                                Автоматизируй это!  Коробочные решения: глубока ли кроличья нора?
-                            </span>
-                        </h3>
-                        <p class="discus__descr text text--large text--dark text--w-regular">
-                            Все силы компаний сейчас направлены на перестраивание бизнеса в новых условиях. Узнайте, как может помочь в этом автоматизация: высвободить ресурсы, ускорить процессы.
-                        </p>
-                    </aside>
-                    <div class="discus__pic">
-                        <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-4.jpg" alt="" class="discus__img">
-                    </div>
-                </article>
-                <div class="discus__speakers">
-                    <div class="discus__speaker">
-                        <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/pervuhin.jpg" alt="" class="discus__speaker-img">
-                        </div>
-                        <div class="discus__speaker-text">
-                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Дмитрий Первухин
-                            </div>
-                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Вице-Президент, Директор департамента развития учетных и аналитических систем, ПАО Банк "ФК Открытие"
-                            </div>
-                        </div>
-                    </div>
-                    <div class="discus__speaker">
-                        <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/putyatinski.png" alt="" class="discus__speaker-img">
-                        </div>
-                        <div class="discus__speaker-text">
-                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Сергей Путятинский
-                            </div>
-                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Заместитель председателя правления «МОСКОВСКИЙ КРЕДИТНЫЙ БАНК» (публичное акционерное общество)
-                            </div>
-                        </div>
-                    </div>
-                    <div class="discus__speaker">
-                        <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/naumov.jpeg" alt="" class="discus__speaker-img">
-                        </div>
-                        <div class="discus__speaker-text">
-                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Данила Наумов
-                            </div>
-                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Chief Data Officer, «М.Видео-Эльдорадо»
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <article class="discus__article">
-                    <aside class="discus__aside">
-                        <h3 class="discus__title">
-                            <span class="discus__num title title--pre-medium title--dark title--w-regular">
-                                05
-                            </span>
-                            <span class="discus__title-text title title--medium title--dark title--w-regular">
-                                Все мое! Как удержать клиентов, поставщиков и сотрудников? Есть ли взаимосвязь между клиентским опытом и опытом сотрудников? 
-                            </span>
-                        </h3>
-                        <p class="discus__descr text text--large text--dark text--w-regular">
-                            Тема замены иностранных решений по управлению знаниями не теряет актуальности. Но достаточно ли просто взять файлы и переместить их в новую систему, или нужно что-то ещё?
-                        </p>
-                    </aside>
-                    <div class="discus__pic">
-                        <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-5.jpg" alt="" class="discus__img">
-                    </div>
-                </article>
-                <div class="discus__speakers">
-                    <div class="discus__speaker">
-                        <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/gujova.jpg" alt="" class="discus__speaker-img">
-                        </div>
-                        <div class="discus__speaker-text">
-                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Валерия Гужова
-                            </div>
-                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Руководитель группы неголосовых каналов связи и исходящих обращений, старший вице президент, Райффайзенбанк
-                            </div>
-                        </div>
-                    </div>
-                    <div class="discus__speaker">
-                        <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/vlasov.jpg" alt="" class="discus__speaker-img">
-                        </div>
-                        <div class="discus__speaker-text">
-                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Власов Алексей
-                            </div>
-                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Заместитель генерального директора по розничному бизнесу, СПАО «Ингосстрах»
-                            </div>
-                        </div>
-                    </div>
-                    <div class="discus__speaker">
-                        <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/borovleeva.jpg" alt="" class="discus__speaker-img">
-                        </div>
-                        <div class="discus__speaker-text">
-                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Ирина Боровлева
-                            </div>
-                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Эксперт в области управления знаниями, DIS Group
                             </div>
                         </div>
                     </div>
@@ -1227,7 +1255,7 @@
                 </p>
                 <div class="register__action gs-reveal gs-reveal--from-left">
                     <a href="javascript:;" class="register__button button button--primary" data-modal="#registration">
-                        Смотреть форум в записи
+                        Зарегистрироваться
                     </a>
                 </div>
             </div>
@@ -1506,21 +1534,21 @@
     <!-- /. Register -->
 
     <!-- Interesting -->
-    <section class="interesting block-padding">
+    <section class="interesting block-padding hide">
         <div class="interesting__body container">
             <h2 class="interesting__heading title--big title--dark title--w-semibold title--indent">
                 Только для любознательных
             </h2>
             <div class="interesting__items">
-                <a href="https://dis-group.ru/lp/upravlenie-dannymi-v-gossektore/" class="interesting__cart" target="_blank">
+                <a href="https://dis-group.ru/dis-news/rossijskaya-platforma-plyus7-formit-obespechit-integracziyu-dannyh-v-mkb/" class="interesting__cart" target="_blank">
                     <div class="interesting__pic">
-                        <img src="<?php echo STANDART_DIR; ?>img/interesting/interesting-img-1.png" alt="" class="interesting__img">
+                        <img src="<?php echo STANDART_DIR; ?>img/interesting/interesting-img-1.jpg" alt="" class="interesting__img">
                     </div>
                     <h3 class="interesting__title title title--small title--dark title--w-regular">
                         Управление данными в Госсекторе
                     </h3>
                 </a>
-                <a href="https://dis-group.ru/lp/data-governance-rukovodstvo-po-upravleniyu-dannymi/" class="interesting__cart" target="_blank">
+                <!-- <a href="https://dis-group.ru/lp/data-governance-rukovodstvo-po-upravleniyu-dannymi/" class="interesting__cart" target="_blank">
                     <div class="interesting__pic">
                         <img src="<?php echo STANDART_DIR; ?>img/interesting/interesting-img-2.jpg" alt="" class="interesting__img">
                     </div>
@@ -1535,11 +1563,40 @@
                     <h3 class="interesting__title title title--small title--dark title--w-regular">
                         Специальное предложение: легкий переход на российскую систему управления знаниями Plus7 MayaK
                     </h3>
-                </a>
+                </a> -->
             </div>
         </div>
     </section>
     <!-- /. Interesting -->
+
+    <!-- Discus -->
+    <section class="discus block-padding" id="discussions">
+        <div class="discus__body container">
+            <h2 class="discus__heading title title--big title--dark title--w-semibold title--indent">
+                Только для любознательных
+            </h2>
+            <div class="discus__items">
+                <article class="discus__article">
+                    <aside class="discus__aside">
+                        <h3 class="discus__title">
+                            <a href="https://dis-group.ru/dis-news/rossijskaya-platforma-plyus7-formit-obespechit-integracziyu-dannyh-v-mkb/" class="interesting__cart" target="_blank">
+                                <span class="discus__title-text title title--medium title--dark title--w-regular link">
+                                    Российская платформа «Плюс7 формИТ» обеспечит интеграцию данных в МКБ
+                                </span>
+                            </a>
+                        </h3>
+                        <p class="discus__descr text text--large text--dark text--w-regular">
+                            «Московский кредитный банк» (МКБ) начал переход на российское ETL-решение «Плюс7 формИТ», которое обеспечит оптимальное наполнение корпоративного хранилища данных (КХД). Переход на новую платформу завершится в 2023 г.
+                        </p>
+                    </aside>
+                    <div class="discus__pic">
+                        <img src="<?php echo STANDART_DIR; ?>img/interesting/interesting-img-1.jpg" alt="" class="discus__img">
+                    </div>
+                </article>
+            </div>
+        </div>
+    </section>
+    <!-- /. Discus -->
 
     <!-- Partners -->
     <section class="partners block-padding" id="partners">
@@ -1555,7 +1612,7 @@
                         <img src="<?php echo STANDART_DIR; ?>img/partners/abd.png" alt="" class="partners__logo">
                     </a>
                     <a href="" class="partners__item swiper-slide">
-                        <img src="<?php echo STANDART_DIR; ?>img/partners/arenadata.png" alt="" class="partners__logo">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/yandex.png" alt="" class="partners__logo">
                     </a>
                 </div>
             </div>

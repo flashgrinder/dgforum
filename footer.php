@@ -30,7 +30,7 @@
                             Дата проведения:
                         </span>
                         <span class="footer__info-text text text--normal text--white text--w-semibold">
-                            22 сентября 2022
+                            25 мая 2023
                         </span>
                     </div>
                     <div class="footer__info">
@@ -85,7 +85,7 @@
         <div class="footer__bottom">
             <div class="footer__copy container">
                 <div class="footer__copy-text text text--tiny text--white text--w-light">
-                    © Copyright 2022 DIS Group. All Rights Reserved.
+                    © Copyright 2023 DIS Group. All Rights Reserved.
                 </div>
             </div>
         </div>

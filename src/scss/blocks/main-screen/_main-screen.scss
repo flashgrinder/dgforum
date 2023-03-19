@@ -1,8 +1,9 @@
 .main-screen {
     position: relative;
-    background: url('../img/main-screen/main-screen-bg.svg') no-repeat;
-    background-size: 50%;
-    background-position: center right;
+    // background: url('../img/main-screen/main-screen-bg.svg') no-repeat;
+    // background-size: 50%;
+    // background-position: center right;
+    background: linear-gradient(90deg,#000,#004050);
     padding: 200px 0;
     height: 100vh;
     display: flex;
@@ -11,22 +12,22 @@
     @include mobile-block {
         padding: 200px 0 100px;
         justify-content: flex-start;
-        background-size: 100%;
-        background-position: center bottom;
+        // background-size: 100%;
+        // background-position: center bottom;
     }
     @include mobileXS(justify-content, center);
 }
 
-.main-screen::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: linear-gradient(90deg, #000000 0%, #004050 100%);
-    z-index: -1;
-}
+// .main-screen::before {
+//     content: '';
+//     position: absolute;
+//     top: 0;
+//     left: 0;
+//     right: 0;
+//     bottom: 0;
+//     background: linear-gradient(90deg, #000000 0%, #004050 100%);
+//     z-index: -1;
+// }
 
 .main-screen__title-ext {
     position: relative;
@@ -49,4 +50,16 @@
 
 .main-screen__actions{
     margin-top: 50px;
+}
+
+.main-screen__lines {
+    height: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    // overflow: hidden;
+    pointer-events: none;
+    right: 0;
+    top: 150px;
+    z-index: 0;
 }
