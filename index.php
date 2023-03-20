@@ -53,10 +53,10 @@
     <!-- Invite -->
     <section class="invite block-padding">
         <div class="invite__body container">
-            <h2 class="invite__heading title--big title--dark title--w-semibold title--indent">
+            <h2 class="invite__heading title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
                 Приглашаем на форум
             </h2>
-            <div class="invite__video">
+            <div class="invite__video gs-reveal gs-reveal--from-left">
                 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/oQFhze1-v_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
@@ -72,23 +72,23 @@
             </svg>
         </div>
         <div class="about__body container">
-            <h3 class="about__subheading title title--large title--dark title--w-light">
+            <h3 class="about__subheading title title--large title--dark title--w-light gs-reveal gs-reveal--from-left">
                 Вселенная <span class="about__text-accent">данных</span> постоянно расширяется.
             </h3>
-            <h3 class="about__subheading title title--large title--dark title--w-light">
+            <h3 class="about__subheading title title--large title--dark title--w-light gs-reveal gs-reveal--from-left">
                 По самым скромным подсчётам, к <span class="about__text-accent">2025 году</span> их объём составит более 180 зеттабайт.
                 Чтобы покорять эти космические просторы, нужны современная методология, профессиональная команда и мощные <span class="about__text-accent">российские технологии</span>. 
             </h3>
             <div class="about__grid">
                 <div class="about__column">
-                    <h2 class="about__title title title--big title--dark title--w-light">
+                    <h2 class="about__title title title--big title--dark title--w-light gs-reveal gs-reveal--from-left">
                         Вселенная данных?
                     </h2>
-                    <h2 class="about__title title title--big title--blue title--w-light">
+                    <h2 class="about__title title title--big title--blue title--w-light gs-reveal gs-reveal--from-left">
                         Вселенная возможностей!
                     </h2>
                 </div>
-                <div class="about__column">
+                <div class="about__column gs-reveal gs-reveal--from-right">
                     <div class="about__text">
                         <p class="about__descr text text--large text--dark text--w-semibold">
                             Как принимать <span class="about__text-accent">ключевые решения</span> со скоростью света?
@@ -106,7 +106,7 @@
                     </div>
                 </div>
             </div>
-            <h3 class="about__subheading title title--large title--dark title--w-light">
+            <h3 class="about__subheading title title--large title--dark title--w-light gs-reveal gs-reveal--from-left">
                 <span class="about__text-accent">Ответы</span> на эти вопросы можно получить на капитанском мостике <span class="about__text-accent">Дата Саммит</span>. Присоединяйтесь!
             </h3>
         </div>
@@ -122,7 +122,7 @@
     <!-- Labs -->
     <section class="labs block-padding">
         <div class="labs__body container">
-            <h2 class="labs__heading title--big title--dark title--w-semibold title--indent">
+            <h2 class="labs__heading title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
                 На саммите вы сможете:
             </h2>
             <div class="labs__inner">
@@ -138,7 +138,7 @@
                     <br>
                     👉🏻 Посмотреть демонстрацию новейшей российской платформы по управлению данными
                 </div>
-                <div class="labs__video">
+                <div class="labs__video gs-reveal gs-reveal--from-right">
                     <iframe class="labs__video-frame" width="560" height="315" src="https://www.youtube.com/embed/GqNYo2w0mIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
@@ -436,141 +436,54 @@
     </section>
     <!-- /. Register -->
 
-    <!-- Team -->
-    <section class="team bg--white block-padding">
-        <div class="team__body container">
-            <h2 class="team__heading title title--big title--dark title--w-semibold title--indent">
+    <!-- Members -->
+    <section class="members bg--white block-padding">
+        <div class="members__body container">
+            <h2 class="members__heading title title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
                 К участию приглашены:
             </h2>
-            <div class="team__items">
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/pavel.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Павел Лихницкий
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Генеральный директор DIS Group
-                            </p>
-                        </div>
-                    </div>
+            <div class="members__items">
+                <article class="members__item gs-reveal gs-reveal--from-left">
+                    <h3 class="members__title title title--medium title--dark title--w-semibold">
+                        Максим Хайтович
+                    </h3>
+                    <p class="members__position text text--large text--dark text--w-regular">
+                        Советник ФКУ «ГосТех»
+                    </p>
                 </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/shvedov.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Дмитрий Шведов
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Заместитель руководителя Департамента цифровизации, АО «ОХК «Уралхим»
-                            </p>
-                        </div>
-                    </div>
+                <article class="members__item gs-reveal gs-reveal--from-left">
+                    <h3 class="members__title title title--medium title--dark title--w-semibold">
+                        Алексей Луковников
+                    </h3>
+                    <p class="members__position text text--large text--dark text--w-regular">
+                        Директор Департамента управления данными, Банк России 
+                    </p>
                 </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/lukovnikov.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Алексей Луковников
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Директор Департамента управления данными, Банк России
-                            </p>
-                        </div>
-                    </div>
+                <article class="members__item gs-reveal gs-reveal--from-left">
+                    <h3 class="members__title title title--medium title--dark title--w-semibold">
+                        Борис Рабинович
+                    </h3>
+                    <p class="members__position text text--large text--dark text--w-regular">
+                        Старший управляющий директор – директор Департамента управления данными (SberData) ПАО Сбербанк
+                    </p>
                 </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/bova.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Светлана Бова
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                CDO, Банк ВТБ
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/sergeev.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Сергей Сергеев
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Директор по цифровым инновациям и IT «Лента»
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/shorohov.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Павел Шорохов
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Директор департамента по работе с данными, Розничная сеть «Магнит»
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
             </div>
+            <p class="members__descr title title--medium title--dark title--w-light gs-reveal gs-reveal--from-left">
+                А также представители <b>Министерства цифрового развития РФ</b>, <b>Государственной корпорации «Ростех»</b>, <b>Государственной корпорации по атомной энергии «Росатом»</b> и многие другие.
+            </p>
         </div>
     </section>
-    <!-- /. Team -->
+    <!-- /. Members -->
 
     <!-- Team -->
     <section class="team bg--white block-padding">
         <div class="team__body container">
-            <h2 class="team__heading title title--big title--dark title--w-semibold title--indent">
+            <h2 class="team__heading title title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
                 Ключевые спикеры
             </h2>
             <div class="team__items">
                 <!-- Team-card -->
-                <article class="team-card">
+                <article class="team-card gs-reveal gs-reveal--from-left">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/pavel.jpg" alt="" class="team-card__photo">
@@ -589,7 +502,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card">
+                <article class="team-card gs-reveal gs-reveal--from-right">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/shvedov.jpg" alt="" class="team-card__photo">
@@ -608,7 +521,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card">
+                <article class="team-card gs-reveal gs-reveal--from-left">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/lukovnikov.jpg" alt="" class="team-card__photo">
@@ -627,7 +540,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card">
+                <article class="team-card gs-reveal gs-reveal--from-right">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/bova.jpg" alt="" class="team-card__photo">
@@ -646,7 +559,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card">
+                <article class="team-card gs-reveal gs-reveal--from-left">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/sergeev.jpg" alt="" class="team-card__photo">
@@ -665,7 +578,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card">
+                <article class="team-card gs-reveal gs-reveal--from-right">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/shorohov.jpg" alt="" class="team-card__photo">
