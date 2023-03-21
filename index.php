@@ -1595,7 +1595,7 @@
                         </p>
                     </aside>
                     <div class="discus__pic">
-                        <img src="<?php echo STANDART_DIR; ?>img/interesting/interesting-img-1.jpg" alt="" class="discus__img">
+                        <img src="<?php echo STANDART_DIR; ?>img/interesting/interesting-img-1.png" alt="" class="discus__img">
                     </div>
                 </article>
             </div>
