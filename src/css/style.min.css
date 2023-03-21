@@ -105,6 +105,7 @@
   --color-white: #FFFFFF;
   --color-black: #000;
   --color-dark: #343a40;
+  --color-gray: #ededed96;
   --color-dark-blue: #192533;
   --color-orange: #ff5001;
   --color-blue: #00A5CD;
@@ -226,10 +227,14 @@ img {
   background-color: var(--color-dark);
 }
 
+.bg--gray {
+  background-color: var(--color-gray);
+}
+
 /* Block-padding */
 
 .block-padding {
-  padding: 130px 0;
+  padding: 90px 0;
 }
 
 /* Links */
@@ -1461,6 +1466,10 @@ img {
 .about__decor--bottom {
   bottom: 0;
   left: 20%;
+}
+
+.about__decor-svg {
+  width: 50%;
 }
 
 .about__text-accent {

@@ -45,12 +45,15 @@
     &--dark {
         background-color: var(--color-dark);
     }
+    &--gray {
+        background-color: var(--color-gray);
+    }
 }
 
 /* Block-padding */
 
 .block-padding {
-    padding: 130px 0;
+    padding: 90px 0;
     @include mobile(padding, 50px 0);
 }
 

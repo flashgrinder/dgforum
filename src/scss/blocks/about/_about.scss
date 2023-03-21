@@ -28,6 +28,10 @@
     }
 }
 
+.about__decor-svg {
+    width: 50%;
+}
+
 .about__decor--bottom .about__decor-svg {
     @include mobile(max-width, 170px);
 }

@@ -70,7 +70,7 @@
     <!-- /. Invite -->
 
     <!-- About -->
-    <section class="about block-padding" id="event">
+    <section class="about bg--gray block-padding" id="event">
         <div class="about__decor about__decor--top">
             <svg class="about__decor-svg" width="203" height="45" viewBox="0 0 203 45" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <line x1="6" y1="39" x2="120" y2="39" stroke="#00E0FF" stroke-width="12" stroke-linecap="round"/>
@@ -114,6 +114,9 @@
             </div>
             <h3 class="about__subheading title title--large title--dark title--w-light gs-reveal gs-reveal--from-left">
                 <span class="about__text-accent">Ответы</span> на эти вопросы можно получить на капитанском мостике <span class="about__text-accent">Дата Саммит</span>. Присоединяйтесь!
+                <br>
+                <br>
+                Мероприятие состоится вживую. Количество мест ограничено, требуется предварительная регистрация с подтверждением. Для тех, кто далеко, организуем онлайн-трансляцию.
             </h3>
         </div>
         <div class="about__decor about__decor--bottom">
@@ -157,14 +160,14 @@
         <div class="register__body container">
             <div class="register__inner">
                 <h2 class="register__heading title title--large title--white title--w-semibold gs-reveal gs-reveal--from-left">
-                    Присылайте вопросы спикерам и получайте подарки
+                    Кому будет полезно
                 </h2>
                 <p class="register__descr text text--large text--white text--w-light gs-reveal gs-reveal--from-left">
-                    Среди участников, следивших за форумом не менее 120 минут, будут разыграны призы: колонка Алиса, беспроводные наушники и другие.
+                    СDO, руководителям по цифровой трансформации, директорам по управлению данными среднего и крупного бизнеса и государственных организаций.
                 </p>
                 <div class="register__action gs-reveal gs-reveal--from-left">
                     <a href="javascript:;" class="register__button button button--primary" data-modal="#registration">
-                        Смотреть форум в записи
+                        Зарегистрироваться
                     </a>
                 </div>
             </div>
@@ -482,7 +485,7 @@
     <!-- /. Members -->
 
     <!-- Team -->
-    <section class="team bg--white block-padding">
+    <section class="team bg--gray block-padding">
         <div class="team__body container">
             <h2 class="team__heading title title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
                 Ключевые спикеры
@@ -823,7 +826,7 @@
     <!-- /. Discus -->
 
     <!-- Programm -->
-    <section class="programm block-padding" id="programm">
+    <section class="programm bg--gray block-padding" id="programm">
         <div class="programm__body container">
             <h2 class="programm__heading title--big title--dark title--w-semibold title--indent">
                 Программа мероприятия
@@ -834,7 +837,7 @@
             <div class="programm__list">
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:00 - 10:05
+                        10:00 - 10:10
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -842,21 +845,21 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Олег Гиацинтов
+                                Ведущая: Элина Тихонова, РБК
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Технический директор DIS Group
+                                
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:05 - 10:20
+                        10:10 - 10:25
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Данные - катализатор цифровизации! Новые тренды и направления развития
+                            Уже не новая новая реальность. Первые итоги трансформации бизнеса и IT
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
@@ -884,166 +887,197 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Платформа данных для химической промышленности. Финалист Data Award 2022.
+                            Санкциям вопреки: лучшие кейсы российских компаний по работе с данными в 2022 году
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Дмитрий Шведов
+                                Интервью
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Заместитель руководителя департамента цифровизации, АО "ОХК "Уралхим"
+                                
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:45 - 11:30
+                        10:45 - 11:10
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Дискуссия 1: Не теряя  уверенности в зоне турбулентности. Новые тренды и направления развития в области Data Governance
+                            Законодательство. Как все учесть?
                         </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Представитель Министерства Цифровизации
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        11:30 - 11:40
+                        11:10 - 11:25
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Цифровая экосистема государства
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Представитель ФКУ " Гостех"
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        11:25 - 12:00
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Дискуссия 1. Государственный стандарт. Управление данными или управление на основе данных?
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Ведущая: Элина Тихонова
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                К участию приглашены представители государственных и крупнейших коммерческих организаций
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        12:00 - 12:20
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Перерыв
                         </h3>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        11:40 - 11:50
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Ожидается облачность? Интервью с  Яндекс.Cloud
-                        </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Представитель Яндекс. Сloud
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        11:50 - 12:10
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Построение эффективного офиса СDO и его влияние на ключевые показатели сервисной компании.
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Сергей Бондарев
+                                
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                СDО, АО "ПГК"
+                                
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:10 - 12:30
+                        12:20 - 12:40
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Путеводитель по галактике ваших данных - единая Data Platform
+                            Созвездие российских технологий для управления данными: новый подход, проверенное качество
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Виталий Фокин
+                                Влад Каменский
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Эксперт DIS Group
+                                Генеральный директор "Юниверс Дата"
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:35 - 13:10
+                        12:40 - 12:55
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Дискуссия  2: Предвидеть непредвиденное. Роль данных в новой реальности
+                            Спикер уточняется
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:10 - 13:30
+                        12:55 - 13:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Платформа данных для розничного бизнеса
+                            Ключ на старт. Как успешно внедрить управление НСИ. Практический кейс
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Алексей Точилов
+                                Спикер уточняется
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                М.Видео - Эльдорадо
+                                
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:30 - 13:45
+                        13:15 - 13:45
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            MДМ
-                            <br> 
-                            Роль данных на производстве.
-                            <br>
-                            Пример одной компании.
+                            Дискуссия 2. Управляем по-новому? Платформа по управлению данными: нужно  ли строить с нуля?
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Серафим Бородин 
+                                Олег Гиацинтов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Эксперт DIS Group
+                                Технический директор DIS Group
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                К участию приглашены представители государственных и крупнейших коммерческих организаций
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:45 - 14:20
+                        13:45 - 14:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Дискуссия 3: На все данные мастер… А может, нужна бригада?
+                            Заоблачные возможности. Расширяем круг клиентов и доступные опции 
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Представитель Яндекс Cloud
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        14:00 - 14:45
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Обед
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        14:20 - 14:30
+                        14:45 - 15:05
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Перерыв
-                        </h3>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        14:30 - 14:50
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Импортозамещение: обзор первой российской линейки Plus7
+                            Вселенная качественных данных. Современный подход к управлению качеством и интеграции
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
@@ -1057,47 +1091,47 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        14:50 - 15:00
+                        15:05 - 15:25
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Миграция на отечественные решения хранения и обработки данных
+                            Полёт нормальный: 5 составляющих верной стратегии по управлению данными
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Антон Балагаев
+                                Представитель компании "Магнит"
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Директор по консалтингу Аренадата
+                                
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:00 - 15:15
+                        15:25 - 16:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Платформа бизнес аналитики Luxms BI
+                            "Я тебя вижу": как наладить общение между системами. Метасканеры нового поколения
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Александр Тютюнник
+                                Спикер уточняется
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Директор по развитию бизнеса ГК Luxms
+                                
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:15 - 15:50
+                        16:00 - 16:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Дискуссия 4: Автоматизируй это! Коробочные решения: глубока ли кроличья нора?
+                            Дискуссия 3. Догнать и перегнать. Как опередить конкурентов и не запутаться в собственных процессах?
                         </h3>
                     </div>
                 </div>
@@ -1145,15 +1179,67 @@
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Дискуссия 5: Все мое! Как удержать клиентов, поставщиков и сотрудников? Есть ли взаимосвязь между клиенским опытом и опытом сотрудников?
                         </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Сергей Евтушенко 
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Руководитель консалтинга DIS Group
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                К участию приглашены представители государственных и крупнейших коммерческих организаций
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        17:15 - 17:30
+                        16:30 - 16:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Итоги. Розыгрыш призов
+                            Защита данных 一 каких отечественных решений не хватает промышленности, банкам, ритейлу 
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Спикер уточняется
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        16:50 - 17:10
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Клонировать будем?
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Представитель компании " Датафлот"
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        17:10 - 18:00
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Фуршет, неформальное общение
                         </h3>
                     </div>
                 </div>
@@ -1170,7 +1256,7 @@
                     Регистрируйся сейчас!
                 </h2>
                 <p class="register__descr text text--large text--white text--w-light gs-reveal gs-reveal--from-left">
-                    Среди участников, следивших за форумом не менее 120 минут, будут разыграны призы: колонка Алиса, беспроводные наушники и другие.
+                    Среди участников, которые подключатся к нам онлайн, будут разыграны призы: колонка Алиса, беспроводные наушники и другие.
                 </p>
                 <div class="register__action gs-reveal gs-reveal--from-left">
                     <a href="javascript:;" class="register__button button button--primary" data-modal="#registration">
@@ -1489,7 +1575,7 @@
     <!-- /. Interesting -->
 
     <!-- Discus -->
-    <section class="discus block-padding" id="discussions">
+    <section class="discus bg--gray block-padding" id="discussions">
         <div class="discus__body container">
             <h2 class="discus__heading title title--big title--dark title--w-semibold title--indent">
                 Только для любознательных
@@ -1498,14 +1584,14 @@
                 <article class="discus__article">
                     <aside class="discus__aside">
                         <h3 class="discus__title">
-                            <a href="https://dis-group.ru/dis-news/rossijskaya-platforma-plyus7-formit-obespechit-integracziyu-dannyh-v-mkb/" class="interesting__cart" target="_blank">
+                            <a href="https://dis-group.ru/materials/upravlenie-dannymi-v-gossektore/" class="interesting__cart" target="_blank">
                                 <span class="discus__title-text title title--medium title--dark title--w-regular link">
-                                    Российская платформа «Плюс7 формИТ» обеспечит интеграцию данных в МКБ
+                                    Управление данными в Госсекторе
                                 </span>
                             </a>
                         </h3>
                         <p class="discus__descr text text--large text--dark text--w-regular">
-                            «Московский кредитный банк» (МКБ) начал переход на российское ETL-решение «Плюс7 формИТ», которое обеспечит оптимальное наполнение корпоративного хранилища данных (КХД). Переход на новую платформу завершится в 2023 г.
+                            Цель навигатора — показать, в том числе на актуальных примерах, как использовать работу с данными для изменения жизни госслужащих. Работа с данными позволяет создавать новые сервисы, быстрее реагировать на события, снижать стоимость управления, принимать более обоснованные и прозрачные решения во всех отраслях.
                         </p>
                     </aside>
                     <div class="discus__pic">
