@@ -1,8 +1,5 @@
 .main-screen {
     position: relative;
-    // background: url('../img/main-screen/main-screen-bg.svg') no-repeat;
-    // background-size: 50%;
-    // background-position: center right;
     background: linear-gradient(90deg,#000,#004050);
     padding: 200px 0;
     height: 100vh;
@@ -12,22 +9,9 @@
     @include mobile-block {
         padding: 200px 0 100px;
         justify-content: flex-start;
-        // background-size: 100%;
-        // background-position: center bottom;
     }
     @include mobileXS(justify-content, center);
 }
-
-// .main-screen::before {
-//     content: '';
-//     position: absolute;
-//     top: 0;
-//     left: 0;
-//     right: 0;
-//     bottom: 0;
-//     background: linear-gradient(90deg, #000000 0%, #004050 100%);
-//     z-index: -1;
-// }
 
 .main-screen__title-ext {
     position: relative;
@@ -46,6 +30,14 @@
     left: 14px;
     font-size: responsive 10px 12px;
     font-range: 360px 1200px;
+}
+
+.main-screen__date {
+    margin-top: 80px;
+}
+
+.main-screen__date ~ .main-screen__date {
+    margin-top: 30px;
 }
 
 .main-screen__actions{

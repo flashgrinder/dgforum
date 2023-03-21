@@ -1,6 +1,60 @@
 /* Fonts */
 
 @font-face {
+  font-family: "Inter";
+  src: url("../fonts/Inter/Inter-Light.eot");
+  src: url("../fonts/Inter/Inter-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Inter/Inter-Light.woff2") format("woff2"), url("../fonts/Inter/Inter-Light.woff") format("woff"), url("../fonts/Inter/Inter-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("../fonts/Inter/Inter-Regular.eot");
+  src: url("../fonts/Inter/Inter-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Inter/Inter-Regular.woff2") format("woff2"), url("../fonts/Inter/Inter-Regular.woff") format("woff"), url("../fonts/Inter/Inter-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("../fonts/Inter/Inter-Semibold.eot");
+  src: url("../fonts/Inter/Inter-Semibold.eot?#iefix") format("embedded-opentype"), url("../fonts/Inter/Inter-Semibold.woff2") format("woff2"), url("../fonts/Inter/Inter-Semibold.woff") format("woff"), url("../fonts/Inter/Inter-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("../fonts/Inter/Inter-Semibolditalic.eot");
+  src: url("../fonts/Inter/Inter-Semibolditalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Inter/Inter-Semibolditalic.woff2") format("woff2"), url("../fonts/Inter/Inter-Semibolditalic.woff") format("woff"), url("../fonts/Inter/Inter-Semibolditalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("../fonts/Inter/Inter-Bold.eot");
+  src: url("../fonts/Inter/Inter-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Inter/Inter-Bold.woff2") format("woff2"), url("../fonts/Inter/Inter-Bold.woff") format("woff"), url("../fonts/Inter/Inter-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("../fonts/Inter/Inter-Black.eot");
+  src: url("../fonts/Inter/Inter-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/Inter/Inter-Black.woff2") format("woff2"), url("../fonts/Inter/Inter-Black.woff") format("woff"), url("../fonts/Inter/Inter-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
   font-family: "Proxima Nova";
   src: url("../fonts/ProximaNova/ProximaNova-Light.eot");
   src: url("../fonts/ProximaNova/ProximaNova-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/ProximaNova/ProximaNova-Light.woff2") format("woff2"), url("../fonts/ProximaNova/ProximaNova-Light.woff") format("woff"), url("../fonts/ProximaNova/ProximaNova-Light.ttf") format("truetype");
@@ -55,7 +109,7 @@
   --color-orange: #ff5001;
   --color-blue: #00A5CD;
   --color-invalid: #dc3232;
-  --font-proxima-nova: "Proxima Nova", "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-inter: "Inter", "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /* Base */
@@ -192,7 +246,7 @@ img {
 /* Title */
 
 .title {
-  font-family: var(--font-proxima-nova);
+  font-family: var(--font-inter);
   font-style: normal;
   margin: 0;
 }
@@ -309,6 +363,10 @@ img {
   font-weight: 900;
 }
 
+.title--italic {
+  font-style: italic;
+}
+
 .title--uppercase {
   text-transform: uppercase;
 }
@@ -320,7 +378,7 @@ img {
 /* Text */
 
 .text {
-  font-family: var(--font-proxima-nova);
+  font-family: var(--font-inter);
   font-style: normal;
   margin: 0;
 }
@@ -385,6 +443,10 @@ img {
 
 .text--w-black {
   font-weight: 900;
+}
+
+.text--italic {
+  font-style: italic;
 }
 
 .text--uppercase {
@@ -578,7 +640,7 @@ img {
 .page {
   position: relative;
   margin: 0;
-  font-family: var(--font-proxima-nova);
+  font-family: var(--font-inter);
   font-size: 16px;
   line-height: 1.35;
 }
@@ -592,7 +654,7 @@ img {
 /* Buttons */
 
 .button {
-  font-family: var(--font-proxima-nova);
+  font-family: var(--font-inter);
   font-weight: 600;
   position: relative;
   cursor: pointer;
@@ -1053,7 +1115,7 @@ img {
 /* Menu */
 
 .menu {
-  font-family: var(--font-proxima-nova);
+  font-family: var(--font-inter);
   font-size: 18px;
   font-weight: normal;
 }
@@ -1189,6 +1251,14 @@ img {
   .main-screen__title-ext::before {
     font-size: 10px;
   }
+}
+
+.main-screen__date {
+  margin-top: 80px;
+}
+
+.main-screen__date ~ .main-screen__date {
+  margin-top: 30px;
 }
 
 .main-screen__actions {

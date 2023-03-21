@@ -5,20 +5,26 @@
         <div class="main-screen__outer">
             <div class="main-screen__body container">
                 <div class="main-screen__text">
-                    <h1 class="main-screen__title title--indent">
-                        <span class="main-screen__title-dis title title--big title--white title--w-semibold title--uppercase">
+                    <h1 class="main-screen__title title title--big title--white title--w-semibold title--italic">
+                        <span class="main-screen__title-dis">
                             Дата Саммит
                         </span>
                         <!-- <span class="main-screen__title-forum title title--big title--white title--w-light">
                             FO<span class="main-screen__title-ext" data-num="44">Ru</span>M
                         </span> -->
                     </h1>
-                    <h2 class="main-screen__subtitle">
-                        <span class="title title--medium title--white title--w-light">Вселенная ваших данных</span>
+                    <h2 class="main-screen__subtitle title title--medium title--white title--w-light title--italic">
+                        <span>Вселенная ваших данных</span>
                         <!-- <span class="title title--medium title--white title--w-light"> – катализатор цифровизации</span>  -->
                     </h2>
-                    <div class="main-screen__date title title--large title--white title--w-bold">
-                        25 мая 2023
+                    <div class="main-screen__date title title--large title--white title--w-bold title--italic">
+                        25 мая 2023, четверг (мероприятие + трансляция)
+                    </div>
+                    <div class="main-screen__date title title--large title--white title--w-light title--italic">
+                        Место проведения: Москва
+                    </div>
+                    <div class="main-screen__date title title--medium title--white title--w-light">
+                        Следите за информацией на сайте <a href="dis-group.ru" class="title title--medium title--white title--w-light link">dis-group.ru</a> 
                     </div>
                     <div class="main-screen__actions">
                         <a href="javascript:;" class="main-screen__button button button--primary" data-modal="#registration">
