@@ -18,13 +18,10 @@
                         <!-- <span class="title title--medium title--white title--w-light"> – катализатор цифровизации</span>  -->
                     </h2>
                     <div class="main-screen__date title title--large title--white title--w-bold title--italic">
-                        25 мая 2023, четверг (мероприятие + трансляция)
+                        25 мая 2023, четверг
                     </div>
                     <div class="main-screen__date title title--large title--white title--w-light title--italic">
                         Место проведения: Москва
-                    </div>
-                    <div class="main-screen__date title title--medium title--white title--w-light">
-                        Следите за информацией на сайте <a href="dis-group.ru" class="title title--medium title--white title--w-light link">dis-group.ru</a> 
                     </div>
                     <div class="main-screen__actions">
                         <a href="javascript:;" class="main-screen__button button button--primary" data-modal="#registration">
@@ -1155,51 +1152,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:10 - 16:30
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Современный сотрудник - цифровой сотрудник!
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Игорь Кудинов
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Эксперт DIS Group
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:30 - 17:15
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Дискуссия 5: Все мое! Как удержать клиентов, поставщиков и сотрудников? Есть ли взаимосвязь между клиенским опытом и опытом сотрудников?
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Сергей Евтушенко 
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Руководитель консалтинга DIS Group
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                К участию приглашены представители государственных и крупнейших коммерческих организаций
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:30 - 16:50
+                        16:10 - 16:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1596,6 +1549,23 @@
                     </aside>
                     <div class="discus__pic">
                         <img src="<?php echo STANDART_DIR; ?>img/interesting/interesting-img-1.png" alt="" class="discus__img">
+                    </div>
+                </article>
+                <article class="discus__article">
+                    <aside class="discus__aside">
+                        <h3 class="discus__title">
+                            <a href="https://dis-group.ru/dis-news/rossijskaya-platforma-plyus7-formit-obespechit-integracziyu-dannyh-v-mkb/" class="interesting__cart" target="_blank">
+                                <span class="discus__title-text title title--medium title--dark title--w-regular link">
+                                    Российская платформа «Плюс7 формИТ» обеспечит интеграцию данных в МКБ
+                                </span>
+                            </a>
+                        </h3>
+                        <p class="discus__descr text text--large text--dark text--w-regular">
+                            «Московский кредитный банк» (МКБ) начал переход на российское ETL-решение «Плюс7 формИТ», которое обеспечит оптимальное наполнение корпоративного хранилища данных (КХД). Переход на новую платформу завершится в 2023 г.
+                        </p>
+                    </aside>
+                    <div class="discus__pic">
+                        <img src="<?php echo STANDART_DIR; ?>img/interesting/interesting-img-2.jpg" alt="" class="discus__img">
                     </div>
                 </article>
             </div>
