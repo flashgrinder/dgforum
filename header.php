@@ -67,9 +67,14 @@
     <!-- Header -->
     <header class="header <?php echo !is_home() ? 'header--content' : '' ?>">
         <div class="header__body container">
-            <a href="<?php echo home_url(); ?>" class="header__logo logo">
-                <img src="<?php echo STANDART_DIR; ?>img/logo.svg" alt="" class="header__logo-img logo__img">
-            </a>
+            <div class="header__logos">
+                <a href="./" class="header__logo logo">
+                    <img src="<?php echo STANDART_DIR; ?>img/logo.svg" alt="" class="header__logo-img-first logo__img">
+                </a>
+                <a href="./" class="header__logo logo">
+                    <img src="<?php echo STANDART_DIR; ?>img/logo-2.png" alt="" class="header__logo-img-second logo__img">
+                </a>
+            </div>
             <div class="header__inner js-menu">
                 <nav class="header__menu menu">
                     <ul class="header__menu-list menu__list">

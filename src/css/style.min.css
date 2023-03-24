@@ -108,6 +108,7 @@
   --color-gray: #ededed96;
   --color-dark-blue: #192533;
   --color-orange: #ff5001;
+  --color-violet: #c258f9;
   --color-blue: #00A5CD;
   --color-invalid: #dc3232;
   --font-inter: "Inter", "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -346,6 +347,10 @@ img {
 
 .title--blue {
   color: var(--color-blue);
+}
+
+.title--violet {
+  color: var(--color-violet);
 }
 
 .title--w-light {
@@ -1093,7 +1098,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-top: 8px;
+  padding-top: 25px;
   padding-bottom: 8px;
 }
 
@@ -1102,8 +1107,18 @@ img {
   align-items: center;
 }
 
-.header__logo {
+.header__logos {
+  display: inline-flex;
+  align-items: center;
+}
+
+.header__logo-img-first {
   max-width: 50px;
+}
+
+.header__logo-img-second {
+  max-width: 150px;
+  margin-left: 20px;
 }
 
 .header__action {

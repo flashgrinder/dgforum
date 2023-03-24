@@ -145,7 +145,8 @@
                     👉🏻 Посмотреть демонстрацию новейшей российской платформы по управлению данными
                 </div>
                 <div class="labs__video gs-reveal gs-reveal--from-right">
-                    <iframe class="labs__video-frame" width="560" height="315" src="https://www.youtube.com/embed/GqNYo2w0mIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <img src="<?php echo STANDART_DIR; ?>img/image-1.jpg" alt="">
+                    <!-- <iframe class="labs__video-frame" width="560" height="315" src="https://www.youtube.com/embed/GqNYo2w0mIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
                 </div>
             </div>
         </div>
@@ -511,16 +512,16 @@
                 <article class="team-card gs-reveal gs-reveal--from-right">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/shvedov.jpg" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/putyatinski.png" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Дмитрий Шведов
+                               Сергей Путятинский
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Заместитель руководителя Департамента цифровизации, АО «ОХК «Уралхим»
+                                Заместитель председателя правления «МОСКОВСКИЙ КРЕДИТНЫЙ БАНК» (публичное акционерное общество)
                             </p>
                         </div>
                     </div>
@@ -549,16 +550,16 @@
                 <article class="team-card gs-reveal gs-reveal--from-right">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/bova.jpg" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/pervuhin.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Светлана Бова
+                                Дмитрий Первухин
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                CDO, Банк ВТБ
+                                Вице-Президент, Директор департамента развития учетных и аналитических систем, ПАО Банк "ФК Открытие"
                             </p>
                         </div>
                     </div>
@@ -870,16 +871,6 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:20 - 10:25
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Финалисты Data Award 2022.  Успешные проекты Data Governance
-                        </h3>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
                         10:25 - 10:45
                     </div>
                     <div class="programm__info">
@@ -906,7 +897,7 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Представитель Министерства Цифровизации
+                                Представитель Министерства цифрового развития, связи и массовых коммуникаций Российской Федерации
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 
@@ -937,12 +928,12 @@
                         11:25 - 12:00
                     </div>
                     <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                        <h3 class="programm__title title title--medium title--blue title--w-semibold">
                             Дискуссия 1. Государственный стандарт. Управление данными или управление на основе данных?
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Ведущая: Элина Тихонова
+                                Ведущая: Элина Тихонова, РБК
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 К участию приглашены представители государственных и крупнейших коммерческих организаций
@@ -955,7 +946,7 @@
                         12:00 - 12:20
                     </div>
                     <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                        <h3 class="programm__title title title--medium title--violet title--w-semibold">
                             Перерыв
                         </h3>
                         <div class="programm__man">
@@ -992,8 +983,16 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Спикер уточняется
+                            Курс на непрерывное развитие. Оптимизация процессов, клиентская аналитика и формирование лучшего предложения.
                         </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Спикер уточняется
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -1019,7 +1018,7 @@
                         13:15 - 13:45
                     </div>
                     <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                        <h3 class="programm__title title title--medium title--blue title--w-semibold">
                             Дискуссия 2. Управляем по-новому? Платформа по управлению данными: нужно  ли строить с нуля?
                         </h3>
                         <div class="programm__man">
@@ -1063,7 +1062,7 @@
                         14:00 - 14:45
                     </div>
                     <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                        <h3 class="programm__title title title--medium title--violet title--w-semibold">
                             Обед
                         </h3>
                     </div>
@@ -1106,7 +1105,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:25 - 16:30
+                        15:25 - 16:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1127,7 +1126,7 @@
                         16:00 - 16:30
                     </div>
                     <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                        <h3 class="programm__title title title--medium title--blue title--w-semibold">
                             Дискуссия 3. Догнать и перегнать. Как опередить конкурентов и не запутаться в собственных процессах?
                         </h3>
                     </div>
@@ -1191,7 +1190,7 @@
                         17:10 - 18:00
                     </div>
                     <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                        <h3 class="programm__title title title--medium title--violet title--w-semibold">
                             Фуршет, неформальное общение
                         </h3>
                     </div>
@@ -1631,9 +1630,6 @@
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/ictonline.png" alt="" class="partners__logo">
-                    </a>
-                    <a href="javascript:;" class="partners__item swiper-slide">
-                        <img src="<?php echo STANDART_DIR; ?>img/partners/is.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/manager.png" alt="" class="partners__logo">

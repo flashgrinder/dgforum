@@ -18,7 +18,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 8px;
+    padding-top: 25px;
     padding-bottom: 8px;
     @include tablet-block {
         padding-top: 20px;
@@ -31,8 +31,18 @@
     align-items: center;
 }
 
-.header__logo {
+.header__logos {
+    display: inline-flex;
+    align-items: center;
+}
+
+.header__logo-img-first {
     max-width: 50px;
+}
+
+.header__logo-img-second {
+    max-width: 150px;
+    margin-left: 20px;
 }
 
 .header__action {
