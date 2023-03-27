@@ -1613,14 +1613,11 @@
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/financetime.png" alt="" class="partners__logo">
                     </a>
-                    <a href="https://bosfera.ru" class="partners__item swiper-slide" target="_blank">
-                        <img src="<?php echo STANDART_DIR; ?>img/partners/bo.svg" alt="" class="partners__logo">
-                    </a>
                     <a href="https://www.connect-wit.ru" class="partners__item swiper-slide" target="_blank">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/connect-id.png" alt="" class="partners__logo">
                     </a>
                     <a href="https://www.it-world.ru" class="partners__item swiper-slide" target="_blank">
-                        <img src="<?php echo STANDART_DIR; ?>img/partners/it-world.png" alt="" class="partners__logo">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/itworld.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/globalcio.png" alt="" class="partners__logo">
@@ -1652,7 +1649,7 @@
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/nbj.png" alt="" class="partners__logo">
                     </a>
-                    <a href="javascript:;" class="partners__item swiper-slide">
+                    <a href="https://bosfera.ru" class="partners__item swiper-slide" target="_blank">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/bo.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
@@ -1668,10 +1665,10 @@
                         <img src="<?php echo STANDART_DIR; ?>img/partners/bamrus.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
-                        <img src="<?php echo STANDART_DIR; ?>img/partners/plas.jpg" alt="" class="partners__logo">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/plas.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
-                        <img src="<?php echo STANDART_DIR; ?>img/partners/r_and_l.jpg" alt="" class="partners__logo">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/r_and_l.png" alt="" class="partners__logo">
                     </a>
                 </div>
             </div>
