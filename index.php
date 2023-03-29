@@ -113,7 +113,7 @@
                 <span class="about__text-accent">Ответы</span> на эти вопросы можно получить на капитанском мостике <span class="about__text-accent">Дата Саммит</span>. Присоединяйтесь!
                 <br>
                 <br>
-                Мероприятие состоится вживую. Количество мест ограничено, требуется предварительная регистрация с подтверждением. Для тех, кто далеко, организуем онлайн-трансляцию.
+                Мероприятие в офлайн формате. Количество мест ограничено, требуется предварительная регистрация с подтверждением. Для тех, кто далеко, организуем онлайн-трансляцию.
             </h3>
         </div>
         <div class="about__decor about__decor--bottom">
@@ -569,6 +569,25 @@
                 <article class="team-card gs-reveal gs-reveal--from-left">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/kamenski.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Владислав Каменский
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Генеральный директор «Юниверс Дата»
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card gs-reveal gs-reveal--from-right">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/sergeev.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
@@ -585,7 +604,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card gs-reveal gs-reveal--from-right">
+                <article class="team-card gs-reveal gs-reveal--from-left">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/shorohov.jpg" alt="" class="team-card__photo">
@@ -612,7 +631,7 @@
     <section class="discus block-padding" id="discussions">
         <div class="discus__body container">
             <h2 class="discus__heading title title--big title--dark title--w-semibold title--indent">
-                3 ключевых дискуссий о данных
+                3 ключевых дискуссии о данных
             </h2>
             <div class="discus__items">
                 <article class="discus__article">
@@ -1133,25 +1152,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:50 - 16:10
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Быстрый омниканальный доступ к релевантной информации - залог  эффективность внешних и внутренних коммуникаций
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Ирина Боровлева
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Эксперт DIS Group
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:10 - 16:50
+                        16:30 - 16:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1177,7 +1178,7 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Представитель компании " Датафлот"
+                                Представитель компании "Датафлот"
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 
