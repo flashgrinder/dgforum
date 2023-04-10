@@ -444,6 +444,29 @@
     <!-- /. Register -->
 
     <!-- Members -->
+    <section class="members bg--gray block-padding">
+        <div class="members__body container">
+            <h2 class="members__heading title title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
+                Ведущая:
+            </h2>
+            <div class="members__items">
+                <article class="members__item gs-reveal gs-reveal--from-left">
+                    <figure class="members__figure">
+                        <img src="<?php echo STANDART_DIR; ?>img/members/tihonova.jpg" alt="" class="members__photo">
+                    </figure>
+                    <h3 class="members__title title title--medium title--dark title--w-semibold">
+                        Элина Тихонова
+                    </h3>
+                    <p class="members__position text text--large text--dark text--w-regular">
+                        Ведущая, телеканал РБК
+                    </p>
+                </article>
+            </div>
+        </div>
+    </section>
+    <!-- /. Members -->
+
+    <!-- Members -->
     <section class="members bg--white block-padding">
         <div class="members__body container">
             <h2 class="members__heading title title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
@@ -451,6 +474,9 @@
             </h2>
             <div class="members__items">
                 <article class="members__item gs-reveal gs-reveal--from-left">
+                    <figure class="members__figure">
+                        <img src="<?php echo STANDART_DIR; ?>img/members/hatovich.jpg" alt="" class="members__photo">
+                    </figure>
                     <h3 class="members__title title title--medium title--dark title--w-semibold">
                         Максим Хайтович
                     </h3>
@@ -459,14 +485,20 @@
                     </p>
                 </article>
                 <article class="members__item gs-reveal gs-reveal--from-left">
+                    <figure class="members__figure">
+                        <img src="<?php echo STANDART_DIR; ?>img/members/goncharov.jpg" alt="" class="members__photo">
+                    </figure>
                     <h3 class="members__title title title--medium title--dark title--w-semibold">
-                        Алексей Луковников
+                        Игорь Гончаров
                     </h3>
                     <p class="members__position text text--large text--dark text--w-regular">
-                        Директор Департамента управления данными, Банк России 
+                        Руководитель службы управления данными банка «Уралсиб»
                     </p>
                 </article>
                 <article class="members__item gs-reveal gs-reveal--from-left">
+                    <figure class="members__figure">
+                        <img src="<?php echo STANDART_DIR; ?>img/members/rabinovich.jpg" alt="" class="members__photo">
+                    </figure>
                     <h3 class="members__title title title--medium title--dark title--w-semibold">
                         Борис Рабинович
                     </h3>
@@ -531,25 +563,6 @@
                 <article class="team-card gs-reveal gs-reveal--from-left">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/lukovnikov.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Алексей Луковников
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Директор Департамента управления данными, Банк России
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card gs-reveal gs-reveal--from-right">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/pervuhin.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
@@ -566,7 +579,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card gs-reveal gs-reveal--from-left">
+                <article class="team-card gs-reveal gs-reveal--from-right">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/kamenski.jpg" alt="" class="team-card__photo">
@@ -585,7 +598,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card gs-reveal gs-reveal--from-right">
+                <article class="team-card gs-reveal gs-reveal--from-left">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/sergeev.jpg" alt="" class="team-card__photo">
@@ -604,7 +617,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card gs-reveal gs-reveal--from-left">
+                <article class="team-card gs-reveal gs-reveal--from-right">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/shorohov.jpg" alt="" class="team-card__photo">
@@ -663,19 +676,6 @@
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
                                 Директор по цифровым инновациям и IT «Лента»
-                            </div>
-                        </div>
-                    </div>
-                    <div class="discus__speaker">
-                        <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/lukovnikov.jpg" alt="" class="discus__speaker-img">
-                        </div>
-                        <div class="discus__speaker-text">
-                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Алексей Луковников
-                            </div>
-                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Директор Департамента управления данными, Банк России
                             </div>
                         </div>
                     </div>
