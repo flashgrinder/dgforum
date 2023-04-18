@@ -444,7 +444,7 @@
     <!-- /. Register -->
 
     <!-- Members -->
-    <section class="members bg--gray block-padding">
+    <section class="members bg--white block-padding">
         <div class="members__body container">
             <h2 class="members__heading title title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
                 Ведущая:
@@ -467,7 +467,7 @@
     <!-- /. Members -->
 
     <!-- Members -->
-    <section class="members bg--white block-padding">
+    <section class="members bg--white block-padding hide">
         <div class="members__body container">
             <h2 class="members__heading title title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
                 К участию приглашены:
@@ -522,7 +522,83 @@
             </h2>
             <div class="team__items">
                 <!-- Team-card -->
-                <article class="team-card gs-reveal gs-reveal--from-left">
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/members/hatovich.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Максим Хайтович
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Советник ФКУ «ГосТех»
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/discus/abakumov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Евгений Абакумов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                IT директор, "Росатом"
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/discus/lepeshkin.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Дмитрий Лепешкин
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Директор по информационно-аналитическим технологиям, Российские космические системы (РКС)
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/discus/petrov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Михаил Петров
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Директор департамента цифровой трансформации, Счетная палата РФ
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card gs-reveal">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/pavel.jpg" alt="" class="team-card__photo">
@@ -541,7 +617,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card gs-reveal gs-reveal--from-right">
+                <article class="team-card gs-reveal">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/putyatinski.png" alt="" class="team-card__photo">
@@ -560,7 +636,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card gs-reveal gs-reveal--from-left">
+                <article class="team-card gs-reveal">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/pervuhin.jpg" alt="" class="team-card__photo">
@@ -579,7 +655,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card gs-reveal gs-reveal--from-right">
+                <article class="team-card gs-reveal">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/kamenski.jpg" alt="" class="team-card__photo">
@@ -598,7 +674,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card gs-reveal gs-reveal--from-left">
+                <article class="team-card gs-reveal">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/sergeev.jpg" alt="" class="team-card__photo">
@@ -617,7 +693,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card gs-reveal gs-reveal--from-right">
+                <article class="team-card gs-reveal">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/shorohov.jpg" alt="" class="team-card__photo">
@@ -665,30 +741,43 @@
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-1.jpg" alt="" class="discus__img">
                     </div>
                 </article>
-                <div class="discus__speakers hide">
+                <div class="discus__speakers gs-reveal">
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/sergeev.jpg" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/discus/abakumov.jpg" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Сергей Сергеев
+                                Евгений Абакумов
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Директор по цифровым инновациям и IT «Лента»
+                                IT директор, "Росатом"
                             </div>
                         </div>
                     </div>
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/rubinovich.jpg" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/discus/lepeshkin.jpg" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Борис Рабинович
+                                Дмитрий Лепешкин
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Старший управляющий директор-директор Департамента управления данными (SberData) ПАО Сбербанк
+                                Директор по информационно-аналитическим технологиям, Российские космические системы (РКС)
+                            </div>
+                        </div>
+                    </div>
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/discus/petrov.jpg" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Михаил Петров
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Директор департамента цифровой трансформации, Счетная палата РФ
                             </div>
                         </div>
                     </div>
@@ -711,59 +800,46 @@
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-2.jpg" alt="" class="discus__img">
                     </div>
                 </article>
-                <div class="discus__speakers hide">
+                <div class="discus__speakers gs-reveal">
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/shorohov.jpg" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/discus/rubinovich.jpg" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Павел Шорохов
+                                Борис Рабинович
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Директор департамента по работе с данными, Розничная сеть «Магнит»
+                                Старший управляющий директор Департамента управления данными (SberData)
                             </div>
                         </div>
                     </div>
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/bova.jpg" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/discus/rudakov.png" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Светлана Бова
+                                Дмитрий Рудаков
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                CDO, Банк ВТБ
+                                Руководитель направления архитектуры НСИ, СУЭК
                             </div>
                         </div>
                     </div>
-                    <div class="discus__speaker">
+                    <!-- <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/feopentov.jpg" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/discus/chernicyn.jpg" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Максим Феопентов
+                                Иван Черницын
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Директор по развитию цифровых технологий, ЕВРАЗ
+                                СDO, "Газпром нефть"
                             </div>
                         </div>
-                    </div>
-                    <div class="discus__speaker">
-                        <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/zolotarev.jpg" alt="" class="discus__speaker-img">
-                        </div>
-                        <div class="discus__speaker-text">
-                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Сергей Золотарев
-                            </div>
-                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Генеральный директор,  Arenadata
-                            </div>
-                        </div>
-                    </div>
+                    </div> -->
                 </div>
                 <article class="discus__article">
                     <aside class="discus__aside">
@@ -783,56 +859,43 @@
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-3.jpg" alt="" class="discus__img">
                     </div>
                 </article>
-                <div class="discus__speakers hide">
+                <div class="discus__speakers gs-reveal">
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/shvedov-2.jpg" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/discus/goncharov.jpg" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Дмитрий Шведов
+                                Игорь Гончаров
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Заместитель руководителя Департамента цифровизации, АО «ОХК «Уралхим»
+                                Руководитель Службы управления данными, Банк Уралсиб
                             </div>
                         </div>
                     </div>
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/ivlev.jpg" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/discus/sergeev.jpg" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Олег Ивлев
+                                Cергей Сергеев
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Руководитель направления Управление Данными, ПАО "НЛМК"
+                                Директор по цифровым инновациям и IT , "Лента"
                             </div>
                         </div>
                     </div>
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/rudakov.png" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/discus/oreshkin.jpg" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Дмитрий Рудаков
+                                Сергей Орешкин
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Начальник отдела архитектуры НСИ, СУЭК
-                            </div>
-                        </div>
-                    </div>
-                    <div class="discus__speaker">
-                        <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/makeev.jpg" alt="" class="discus__speaker-img">
-                        </div>
-                        <div class="discus__speaker-text">
-                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Александр Макеев
-                            </div>
-                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Руководитель направления трансформации бизнес-процессов финансов, ПОЛЮС
+                                Директор департамента по работе с данными, ПАО Московская Биржа
                             </div>
                         </div>
                     </div>
@@ -861,7 +924,7 @@
                             Открытие форума
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Ведущая: Элина Тихонова, РБК
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -879,7 +942,7 @@
                             Уже не новая новая реальность. Первые итоги трансформации бизнеса и IT
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Павел Лихницкий
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -898,10 +961,10 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Интервью
+                                Интервью с:
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
+                                Сергеем Путятинским, заместителем председателя правления, МКБ и Дмитрием Первухиным, Банк "Открытие"
                             </div>
                         </div>
                     </div>
@@ -915,8 +978,8 @@
                             Законодательство. Как все учесть?
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Представитель Министерства цифрового развития, связи и массовых коммуникаций Российской Федерации
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Представитель Министерства цифрового развития, связи и массовых коммуникаций РФ
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 
@@ -933,11 +996,11 @@
                             Цифровая экосистема государства
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Представитель ФКУ " Гостех"
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Максим Хайтович
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                
+                                Советник ФКУ «ГосТех»
                             </div>
                         </div>
                     </div>
@@ -951,11 +1014,35 @@
                             Дискуссия 1. Государственный стандарт. Управление данными или управление на основе данных?
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Ведущая: Элина Тихонова, РБК
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                К участию приглашены представители государственных и крупнейших коммерческих организаций
+                                
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Евгений Абакумов
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                IT директор, "Росатом"
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Михаил Петров
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Директор департамента цифровой трансформации, Счетная палата РФ
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Дмитрий Лепешкин
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Директор по информационно-аналитическим технологиям, Российские космические системы (РКС)
                             </div>
                         </div>
                     </div>
@@ -987,7 +1074,7 @@
                             Созвездие российских технологий для управления данными: новый подход, проверенное качество
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Влад Каменский
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -1002,14 +1089,14 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Курс на непрерывное развитие. Оптимизация процессов, клиентская аналитика и формирование лучшего предложения.
+                            Цифровой профиль москвича
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Спикер уточняется
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Владислав Шишмарев 
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                
+                                Заместитель руководителя Департамента информационных технологий города Москвы
                             </div>
                         </div>
                     </div>
@@ -1023,11 +1110,11 @@
                             Ключ на старт. Как успешно внедрить управление НСИ. Практический кейс
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Спикер уточняется
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Иван Ухин 
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                
+                                Начальник управления НСИ, ПИК
                             </div>
                         </div>
                     </div>
@@ -1041,21 +1128,37 @@
                             Дискуссия 2. Управляем по-новому? Платформа по управлению данными: нужно  ли строить с нуля?
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Олег Гиацинтов
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Ведущий: Олег Гиацинтов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Технический директор DIS Group
                             </div>
                         </div>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                К участию приглашены представители государственных и крупнейших коммерческих организаций
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Борис Рабинович
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-
+                                Старший управляющий директор Департамента управления данными (SberData)
                             </div>
                         </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Дмитрий Рудаков
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Руководитель направления архитектуры НСИ, СУЭК
+                            </div>
+                        </div>
+                        <!-- <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Иван Черницын
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                СDO "Газпром нефть"
+                            </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="programm__item">
@@ -1067,11 +1170,11 @@
                             Заоблачные возможности. Расширяем круг клиентов и доступные опции 
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Представитель Яндекс Cloud
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Кирилл Кононов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-
+                                Руководитель направления по работе с розничными сетями, электронной торговлей и автопроизводителями Яндекс Cloud
                             </div>
                         </div>
                     </div>
@@ -1095,7 +1198,7 @@
                             Вселенная качественных данных. Современный подход к управлению качеством и интеграции
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Олег Гиацинтов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -1113,11 +1216,11 @@
                             Полёт нормальный: 5 составляющих верной стратегии по управлению данными
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Представитель компании "Магнит"
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Павел Шорохов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                
+                                "Магнит"
                             </div>
                         </div>
                     </div>
@@ -1148,6 +1251,38 @@
                         <h3 class="programm__title title title--medium title--blue title--w-semibold">
                             Дискуссия 3. Догнать и перегнать. Как опередить конкурентов и не запутаться в собственных процессах?
                         </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Ведущая: Элина Тихонова
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Cергей Сергеев
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Директор по цифровым инновациям и IT , "Лента"
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Игорь Гончаров
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Руководитель Службы управления данными, Банк Уралсиб
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Сергей Орешкин
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Директор департамента по работе с данными, ПАО Московская Биржа
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -1159,11 +1294,11 @@
                             Защита данных 一 каких отечественных решений не хватает промышленности, банкам, ритейлу 
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Спикер уточняется
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Евгений Маскалев
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                
+                                СDO, "Союз"
                             </div>
                         </div>
                     </div>
@@ -1177,7 +1312,7 @@
                             Клонировать будем?
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Представитель компании "Датафлот"
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -1193,6 +1328,16 @@
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--violet title--w-semibold">
                             Фуршет, неформальное общение
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        18:00 - 21:00
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--violet title--w-semibold">
+                            Вечернее шоу
                         </h3>
                     </div>
                 </div>
@@ -1583,11 +1728,20 @@
         <div class="partners__outer container-page">
             <div class="partners__wrapper-items partners__item--slider-one swiper-container">
                 <div class="partners__items swiper-wrapper">
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/abd.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/yandex.png" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/cedrusdata.png" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/tarantool.png" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/tern.jpg" alt="" class="partners__logo">
                     </a>
                 </div>
             </div>
@@ -1670,6 +1824,9 @@
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/r_and_l.png" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/comptek.jpg" alt="" class="partners__logo">
                     </a>
                 </div>
             </div>
