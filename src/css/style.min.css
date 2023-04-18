@@ -1729,7 +1729,7 @@ img {
 
 .programm__list {
   display: grid;
-  grid-auto-rows: minmax(160px, 1fr);
+  grid-auto-rows: minmax(160px, auto);
 }
 
 .programm__item {
