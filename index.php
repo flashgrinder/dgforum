@@ -964,7 +964,7 @@
                                 Интервью с:
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Сергеем Путятинским, заместителем председателя правления, МКБ и Дмитрием Первухиным, Банк "Открытие"
+                                Сергеем Путятинским, заместителем председателя правления, МКБ
                             </div>
                         </div>
                     </div>
@@ -1111,10 +1111,18 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Иван Ухин 
+                                Сюткина Мария
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Начальник управления НСИ, ПИК
+                                Заместитель директора по развитию общекорпоративных сервисов и автоматизированных систем управления технологическим процессом ООО "РусГидро ИТ сервис"
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Абакарова Ольга
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Начальник отдела "Нормативно-справочной информации" ПАО "РусГидро"
                             </div>
                         </div>
                     </div>
@@ -1765,6 +1773,9 @@
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/dmk.png" alt="" class="partners__logo">
                     </a>
+                    <a href="https://it-rating.top/afisha/" class="partners__item swiper-slide" target="_blank">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/888.jpeg" alt="" class="partners__logo">
+                    </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/financetime.png" alt="" class="partners__logo">
                     </a>
@@ -1827,6 +1838,9 @@
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/comptek.jpg" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/axoft.png" alt="" class="partners__logo">
                     </a>
                 </div>
             </div>
