@@ -1726,6 +1726,19 @@
     </section>
     <!-- /. Discus -->
 
+    <!-- Plan -->
+    <section class="plan block-padding">
+        <div class="plan__body container">
+            <h2 class="plan__heading title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
+                План расположения стендов в демозоне
+            </h2>
+            <div class="plan__pic">
+                <img src="<?php echo STANDART_DIR; ?>img/plan.jpg" alt="" class="plan__pic">
+            </div>
+        </div>
+    </section>
+    <!-- /. Plan -->
+
     <!-- Partners -->
     <section class="partners block-padding" id="partners">
         <div class="partners__body container">
@@ -1776,13 +1789,19 @@
                     <a href="https://it-rating.top/afisha/" class="partners__item swiper-slide" target="_blank">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/888.jpeg" alt="" class="partners__logo">
                     </a>
-                    <a href="javascript:;" class="partners__item swiper-slide">
-                        <img src="<?php echo STANDART_DIR; ?>img/partners/financetime.png" alt="" class="partners__logo">
-                    </a>
                     <a href="https://www.connect-wit.ru" class="partners__item swiper-slide" target="_blank">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/connect-id.png" alt="" class="partners__logo">
                     </a>
-                    <a href="https://www.it-world.ru" class="partners__item swiper-slide" target="_blank">
+                    <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/financetime.png" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/itspeaker.png" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/tagline.png" alt="" class="partners__logo">
+                    </a>
+                    <a href="https://www.it-world.ru/" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/itworld.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
