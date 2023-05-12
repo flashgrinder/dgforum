@@ -1169,14 +1169,14 @@
                                 Руководитель направления архитектуры НСИ, СУЭК
                             </div>
                         </div>
-                        <!-- <div class="programm__man">
+                        <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Иван Черницын
+                                Картушева Татьяна
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                СDO "Газпром нефть"
+                                Руководитель НСИ, Сибур
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -1192,14 +1192,14 @@
                                 Кирилл Кононов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Руководитель направления по работе с розничными сетями, электронной торговлей и автопроизводителями Яндекс Cloud
+                                Руководитель направления по работе с розничными сетями, электронной торговлей и автопроизводителями Yandex Cloud
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        14:00 - 14:45
+                        14:00 - 15:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--violet title--w-semibold">
@@ -1209,7 +1209,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        14:45 - 15:05
+                        15:00 - 15:25
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1227,7 +1227,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:05 - 15:25
+                        15:25 - 15:40
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1238,14 +1238,14 @@
                                 Павел Шорохов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                "Магнит"
+                                Директор департамента по работе с данными, Розничная сеть «Магнит»
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:25 - 16:00
+                        15:40 - 16:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1287,10 +1287,10 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Игорь Гончаров
+                                Дмитрий Первухин
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Руководитель Службы управления данными, Банк Уралсиб
+                                Банк  «Открытие»
                             </div>
                         </div>
                         <div class="programm__man">
@@ -1335,6 +1335,14 @@
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Ольга Объездчикова
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                эксперт DIS Group
                             </div>
                         </div>
                     </div>
