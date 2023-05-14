@@ -1262,14 +1262,14 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            "Я тебя вижу": как наладить общение между системами. Метасканеры нового поколения
+                            Непрерывный процесс обеспечения качества данных
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Спикер уточняется
+                                Виталий Фокин
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                
+                                Эксперт DIS Group
                             </div>
                         </div>
                     </div>
@@ -1750,6 +1750,28 @@
                     </aside>
                     <div class="discus__pic">
                         <img src="<?php echo STANDART_DIR; ?>img/interesting/interesting-img-2.jpg" alt="" class="discus__img">
+                    </div>
+                </article>
+                <article class="discus__article">
+                    <aside class="discus__aside">
+                        <h3 class="discus__title">
+                            <a href="https://anketolog.ru/s/713487/bXflNYKi" class="interesting__cart" target="_blank">
+                                <span class="discus__title-text title title--medium title--dark title--w-regular link">
+                                    Ответьте на 7 вопросов и получите книгу в подарок
+                                </span>
+                            </a>
+                        </h3>
+                        <p class="discus__descr text text--large text--dark text--w-regular">
+                            Опрос полностью анонимный. Вам не нужно указывать ни своё имя, ни название компании.
+                            <br>
+                            Для участников опроса мы подготовили небольшой подарок – новую книгу DIS Group об управлении информацией. Ссылка для скачивания доступна в конце опроса.
+                            <br>
+                            <br>
+                        </p>
+                        <a class="link button button--secondary" target="_blank" href=https://anketolog.ru/s/713487/bXflNYKi>Заполните нашу анкету</a>
+                    </aside>
+                    <div class="discus__pic">
+                        <img src="<?php echo STANDART_DIR; ?>img/interesting/opros.jpg" alt="" class="discus__img">
                     </div>
                 </article>
             </div>
