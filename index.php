@@ -863,14 +863,14 @@
                 <div class="discus__speakers gs-reveal">
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/discus/goncharov.jpg" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/naumov.jpeg" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Игорь Гончаров
+                                Данила Наумов
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Руководитель Службы управления данными, Банк Уралсиб
+                                Директор офиса больших данных, "М.Видео-Эльдорадо"
                             </div>
                         </div>
                     </div>
@@ -1227,7 +1227,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Вселенная качественных данных. Современный подход к управлению качеством и интеграции
+                            Вселенная данных. Современные инструменты
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -1245,7 +1245,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Полёт нормальный: 5 составляющих верной стратегии по управлению данными
+                            МАГНИТ Как мы поменяли работу с данными для 10 000 пользователей
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
