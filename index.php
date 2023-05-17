@@ -827,19 +827,20 @@
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="discus__speaker">
+                    <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/discus/chernicyn.jpg" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/discus/kartusheva.jpg" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Иван Черницын
+                                Татьяна Картушева
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                СDO, "Газпром нефть"
+                                Руководитель группы НСИ <br>
+                                Управление нормативно-справочной информации ООО "СИБУР ДИДЖИТАЛ"
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                 </div>
                 <article class="discus__article">
                     <aside class="discus__aside">
@@ -1160,7 +1161,7 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Ведущий: Олег Гиацинтов
+                                Ведущая: Элина Тихонова
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Технический директор DIS Group
@@ -1284,7 +1285,7 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Ведущая: Элина Тихонова
+                                Ведущий: Олег Гиацинтов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 
@@ -1326,10 +1327,10 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Евгений Маскалев
+                                Ринат Абурахманов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                СDO, "Союз"
+                                СDO, вице-президент по работе с данными, "ВымпелКом"
                             </div>
                         </div>
                     </div>
@@ -1859,6 +1860,12 @@
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/globalcio.png" alt="" class="partners__logo">
+                    </a>
+                    <a href="https://cisoclub.ru/" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/cisco.png" alt="" class="partners__logo">
+                    </a>
+                    <a href="https://www.ocs.ru/" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/osc.jpg" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/ict2go.png" alt="" class="partners__logo">
