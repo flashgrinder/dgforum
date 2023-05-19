@@ -481,7 +481,7 @@
                         Максим Хайтович
                     </h3>
                     <p class="members__position text text--large text--dark text--w-regular">
-                        Советник ФКУ «ГосТех»
+                        Заместитель директора ФКУ «ГосТех»
                     </p>
                 </article>
                 <article class="members__item gs-reveal gs-reveal--from-left">
@@ -534,7 +534,7 @@
                                 Максим Хайтович
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Советник ФКУ «ГосТех»
+                                Заместитель директора ФКУ «ГосТех»
                             </p>
                         </div>
                     </div>
@@ -999,14 +999,14 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Законодательство. Как все учесть?
+                            Цифровая экосистема государства
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Представитель Министерства цифрового развития, связи и массовых коммуникаций РФ
+                                Максим Хайтович
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                
+                                Заместитель директора ФКУ «ГосТех»
                             </div>
                         </div>
                     </div>
@@ -1017,14 +1017,14 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Цифровая экосистема государства
+                            Законодательство. Как все учесть?
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Максим Хайтович
+                                Представитель Министерства цифрового развития, связи и массовых коммуникаций РФ
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Советник ФКУ «ГосТех»
+
                             </div>
                         </div>
                     </div>
@@ -1315,6 +1315,14 @@
                                 Директор департамента по работе с данными, ПАО Московская Биржа
                             </div>
                         </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Данила Наумов
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Директор офиса больших данных, "М.Видео-Эльдорадо"
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -1323,11 +1331,11 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Защита данных 一 каких отечественных решений не хватает промышленности, банкам, ритейлу 
+                            Data Mesh: успехи и бесценные уроки
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Ринат Абурахманов
+                                Ринат Абдурахманов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 СDO, вице-президент по работе с данными, "ВымпелКом"
@@ -1343,14 +1351,6 @@
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Клонировать будем?
                         </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Представитель компании "Датафлот"
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                
-                            </div>
-                        </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Ольга Объездчикова
@@ -1817,6 +1817,12 @@
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/tern.jpg" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/jet.png" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/ibs.png" alt="" class="partners__logo">
                     </a>
                 </div>
             </div>
