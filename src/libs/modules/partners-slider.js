@@ -14,6 +14,14 @@ function init() {
         autoplay: {
             delay: 0,
             disableOnInteraction: false
+        },
+        breakpoints: {
+            320: {
+                slidesPerView: 1,
+            },
+            768: {
+                slidesPerView: 3,
+            }
         }
     });
 

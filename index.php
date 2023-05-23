@@ -21,10 +21,10 @@
                         25 мая 2023, четверг
                     </div>
                     <div class="main-screen__date title title--large title--white title--w-light title--italic">
-                        Место проведения: Москва
+                        Регистрация на офлайн мероприятие закрыта. Приглашаем вас подключиться к мероприятию онлайн. Регистрируйтесь и смотрите!
                     </div>
                     <div class="main-screen__actions">
-                        <a href="javascript:;" class="main-screen__button button button--primary" data-modal="#registration">
+                        <a href="https://proofix.ru/data-summit" class="main-screen__button button button--primary" target="_blank">
                             Зарегистрироваться
                         </a>
                     </div>
@@ -164,7 +164,7 @@
                     СDO, руководителям по цифровой трансформации, директорам по управлению данными среднего и крупного бизнеса и государственных организаций.
                 </p>
                 <div class="register__action gs-reveal gs-reveal--from-left">
-                    <a href="javascript:;" class="register__button button button--primary" data-modal="#registration">
+                    <a href="https://proofix.ru/data-summit" class="register__button button button--primary" target="_blank">
                         Зарегистрироваться
                     </a>
                 </div>
@@ -1466,7 +1466,7 @@
                     Среди участников, которые подключатся к нам онлайн, будут разыграны призы: колонка Алиса, беспроводные наушники и другие.
                 </p>
                 <div class="register__action gs-reveal gs-reveal--from-left">
-                    <a href="javascript:;" class="register__button button button--primary" data-modal="#registration">
+                    <a href="https://proofix.ru/data-summit" class="register__button button button--primary" target="_blank">
                         Зарегистрироваться
                     </a>
                 </div>
