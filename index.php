@@ -711,6 +711,44 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/neiman.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Алексей Нейман
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Ассоциация больших данных
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/surova.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Надежда Сурова
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Директор центра компетенций «Цифровая экономика». <br> Совет по цифровой экономике Совета Федерации ФС РФ
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
             </div>
         </div>
     </section>
@@ -838,6 +876,19 @@
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
                                 Руководитель группы НСИ <br>
                                 Управление нормативно-справочной информации ООО "СИБУР ДИДЖИТАЛ"
+                            </div>
+                        </div>
+                    </div>
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/discus/ivanov.jpg" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Сергей Иванов
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Технический директор Ренессанс Страхование
                             </div>
                         </div>
                     </div>
@@ -988,7 +1039,7 @@
                                 Интервью с:
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Сергеем Путятинским, заместителем председателя правления, МКБ
+                                Сергеем Путятинским, заместителем председателя правления, МКБ и Борисом Рабиновичем,  Старшим управляющим директором Департамента управления данными, Сбербанк
                             </div>
                         </div>
                     </div>
@@ -1013,7 +1064,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        11:10 - 11:25
+                        11:10 - 11:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1031,7 +1082,25 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        11:25 - 12:00
+                        11:30 - 11:45
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Стратегия развития рынка больших данных в РФ
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Алексей Нейман
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Ассоциация больших данных
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        11:45 - 12:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--blue title--w-semibold">
@@ -1073,7 +1142,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:00 - 12:20
+                        12:15 - 12:45
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--violet title--w-semibold">
@@ -1091,7 +1160,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:20 - 12:40
+                        12:45 - 13:05
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1109,7 +1178,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:40 - 12:55
+                        13:05 - 13:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1127,7 +1196,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:55 - 13:15
+                        13:30 - 13:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1153,7 +1222,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:15 - 13:45
+                        13:50 - 14:20
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--blue title--w-semibold">
@@ -1195,25 +1264,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:45 - 14:00
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Заоблачные возможности. Расширяем круг клиентов и доступные опции 
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Кирилл Кононов
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Руководитель направления по работе с розничными сетями, электронной торговлей и автопроизводителями Yandex Cloud
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        14:00 - 15:00
+                        14:20 - 15:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--violet title--w-semibold">
@@ -1245,6 +1296,24 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Заоблачные возможности. Расширяем круг клиентов и доступные опции 
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Кирилл Кононов
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Руководитель направления по работе с розничными сетями, электронной торговлей и автопроизводителями Yandex Cloud
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        15:40 - 15:55
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             МАГНИТ Как мы поменяли работу с данными для 10 000 пользователей
                         </h3>
                         <div class="programm__man">
@@ -1259,7 +1328,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:40 - 16:00
+                        15:55 - 16:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1277,7 +1346,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:00 - 16:30
+                        16:15 - 16:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--blue title--w-semibold">
@@ -1327,7 +1396,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:30 - 16:50
+                        16:50 - 17:10
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1345,7 +1414,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:50 - 17:10
+                        17:10 - 17:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1363,7 +1432,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        17:10 - 18:00
+                        17:30 - 18:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--violet title--w-semibold">
