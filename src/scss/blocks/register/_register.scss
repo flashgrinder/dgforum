@@ -17,17 +17,16 @@
     z-index: 0;
     pointer-events: none;
     user-select: none;
-    @include tablet-block {
-        top: auto;
-        bottom: -75px;
-        opacity: 0.2;
-    }
-    @include mobileXS(bottom, -145px);
+    @include mobile(height, 100%);
 }
 
 .register__decor-svg {
-    @include tablet(max-width, 550px);
-    @include mobileXS(max-width, 360px);
+    @include mobile-block {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        opacity: .5;
+    }
 }
 
 .register__descr {

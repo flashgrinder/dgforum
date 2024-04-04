@@ -39,7 +39,7 @@
                 <h3 class="modal__title modal__field--anim title title--large title--dark title--w-regular center">
                     Зарегистрироваться на саммит
                 </h3>
-                <script type="text/javascript" async="async" defer="defer" charset="UTF-8" src=https://timepad.ru/js/tpwf/loader/min/loader.js data-timepad-customized="30874" data-twf2s-event--id="2364539" data-timepad-widget-v2="event_register"></script>
+                <script type="text/javascript" async="async" defer="defer" charset="UTF-8" src="https://timepad.ru/js/tpwf/loader/min/loader.js" data-timepad-customized="30874" data-twf2s-event--id="2823899" data-timepad-widget-v2="event_register"></script>
                 <!-- <form action="https://email.dis-group.info/add_subscriber.html" accept-charset="utf-8" method="post" class="modal__form wpcf7-form"> -->
                     <!-- Fields -->
                     <!-- <div class="modal__field">

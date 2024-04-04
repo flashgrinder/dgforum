@@ -52,7 +52,9 @@
     "hystmodal": "^0.5.1",
     "postcss-responsive-type": "^1.0.0",
     "smooth-scrollbar": "^8.6.3",
-    "swiper": "^6.8.2"
+    "swiper": "^6.8.2",
+    "tsparticles": "^3.3.0",
+    "tsparticles-engine": "^2.12.0"
   },
   "babel": {
     "presets": [

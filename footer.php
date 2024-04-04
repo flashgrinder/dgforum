@@ -30,7 +30,7 @@
                             Дата проведения:
                         </span>
                         <span class="footer__info-text text text--normal text--white text--w-semibold">
-                            25 мая 2023
+                            30 мая 2024
                         </span>
                     </div>
                     <div class="footer__info">
@@ -75,23 +75,16 @@
                     </a>
                 </div>
             </div>
-            <div class="footer__decor">
-                <svg class="footer__decor-svg" width="221" height="74" viewBox="0 0 221 74" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <line x1="4" y1="70" x2="122" y2="70" stroke="#00E0FF" stroke-width="8" stroke-linecap="round"/>
-                    <line x1="141" y1="2" x2="219" y2="2" stroke="#8C3FFF" stroke-width="4" stroke-linecap="round"/>
-                </svg>
-            </div>
         </div>
         <div class="footer__bottom">
             <div class="footer__copy container">
                 <div class="footer__copy-text text text--tiny text--white text--w-light">
-                    © Copyright 2023 DIS Group. All Rights Reserved.
+                    © Copyright 2024 DIS Group. All Rights Reserved.
                 </div>
             </div>
         </div>
     </footer>
     <!-- /. Footer -->
-
     <?php wp_footer(); ?>
 </body>
 </html>
