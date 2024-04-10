@@ -250,23 +250,23 @@
 <!--                </article>-->
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card gs-reveal">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR; ?>img/discus/abakumov.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Евгений Абакумов
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                IT директор, "Росатом"
-                            </p>
-                        </div>
-                    </div>
-                </article>
+<!--                <article class="team-card gs-reveal">-->
+<!--                    <aside class="team-card__aside">-->
+<!--                        <figure class="team-card__figure">-->
+<!--                            <img src="--><?php //echo STANDART_DIR; ?><!--img/discus/abakumov.jpg" alt="" class="team-card__photo">-->
+<!--                        </figure>-->
+<!--                    </aside>-->
+<!--                    <div class="team-card__body">-->
+<!--                        <div class="team-card__text">-->
+<!--                            <h3 class="team-card__heading title title--small title--dark title--w-regular">-->
+<!--                                Евгений Абакумов-->
+<!--                            </h3>-->
+<!--                            <p class="team-card__descr text text--normal text--dark text--w-light">-->
+<!--                                IT директор, "Росатом"-->
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </article>-->
                 <!-- /. Team-card -->
                 <!-- Team-card -->
                 <article class="team-card gs-reveal">
@@ -439,24 +439,24 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
-                <!-- Team-card -->
-<!--                <article class="team-card gs-reveal">-->
-<!--                    <aside class="team-card__aside">-->
-<!--                        <figure class="team-card__figure">-->
-<!--                            <img src="--><?php //echo STANDART_DIR; ?><!--img/team/surova.jpg" alt="" class="team-card__photo">-->
-<!--                        </figure>-->
-<!--                    </aside>-->
-<!--                    <div class="team-card__body">-->
-<!--                        <div class="team-card__text">-->
-<!--                            <h3 class="team-card__heading title title--small title--dark title--w-regular">-->
-<!--                                Надежда Сурова-->
-<!--                            </h3>-->
-<!--                            <p class="team-card__descr text text--normal text--dark text--w-light">-->
-<!--                                Директор центра компетенций «Цифровая экономика». <br> Совет по цифровой экономике Совета Федерации ФС РФ-->
-<!--                            </p>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </article>-->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/members/rabinovich.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Борис Рабинович
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                CDO Сбербанка
+                            </p>
+                        </div>
+                    </div>
+                </article>
                 <!-- /. Team-card -->
             </div>
         </div>
@@ -488,22 +488,22 @@
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-1.jpg" alt="" class="discus__img">
                     </div>
                 </article>
-                <h2 class="team__heading title title--medium title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
+                <h2 class="team__heading title title--medium title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left hide">
                     Приглашены к участию:
                 </h2>
-                <div class="discus__speakers gs-reveal">
+                <div class="discus__speakers gs-reveal hide">
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
                             <img src="<?php echo STANDART_DIR; ?>img/discus/abakumov.jpg" alt="" class="discus__speaker-img">
                         </div>
-                        <div class="discus__speaker-text">
-                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Евгений Абакумов
-                            </div>
-                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                IT директор, "Росатом"
-                            </div>
-                        </div>
+<!--                        <div class="discus__speaker-text">-->
+<!--                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">-->
+<!--                                Евгений Абакумов-->
+<!--                            </div>-->
+<!--                            <div class="discus__speaker-position text text--normal text--dark text--w-light">-->
+<!--                                IT директор, "Росатом"-->
+<!--                            </div>-->
+<!--                        </div>-->
                     </div>
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
@@ -809,14 +809,14 @@
                                 Приглашены к участию:
                             </div>
                         </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Евгений Абакумов
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Директор по ИТ «Росатома»
-                            </div>
-                        </div>
+<!--                        <div class="programm__man">-->
+<!--                            <div class="programm__man-name text text--normal text--dark text--w-semibold">-->
+<!--                                Евгений Абакумов-->
+<!--                            </div>-->
+<!--                            <div class="programm__man-rank text text--normal text--dark text--w-light">-->
+<!--                                Директор по ИТ «Росатома»-->
+<!--                            </div>-->
+<!--                        </div>-->
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Михаил Петров
@@ -891,10 +891,10 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Представитель Сбербанка
+                                Борис Рабинович
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-
+                                CDO Сбербанка
                             </div>
                         </div>
                     </div>
@@ -1083,7 +1083,7 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                К участию приглашены представители компаний:
+                                К участию приглашены:
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
 
@@ -1107,18 +1107,10 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Данила Наумов
+                                Представитель АК «АЛРОСА»
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Директор офиса больших данных «М.Видео-Эльдорадо»
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Вадим Желтухин
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Начальник Управления внутреннего аудита АК «АЛРОСА»
+
                             </div>
                         </div>
                     </div>
@@ -1244,7 +1236,7 @@
     <!-- /. Interesting -->
 
     <!-- Discus -->
-    <section class="discus bg--gray block-padding" id="discussions">
+    <section class="discus bg--gray block-padding">
         <div class="discus__body container">
             <h2 class="discus__heading title title--big title--dark title--w-semibold title--indent">
                 Только для любознательных
@@ -1466,6 +1458,12 @@
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/axoft.png" alt="" class="partners__logo">
                     </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/itraiting.jpg" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/tagline.png" alt="" class="partners__logo">
+                    </a>
                 </div>
             </div>
         </div>
@@ -1479,7 +1477,7 @@
                 Как это было в 2023 году
             </h2>
             <div class="invite__video gs-reveal gs-reveal--from-left">
-                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/3HA3aCm3WUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/3HA3aCm3WUA?si=D8_yvTN5XjyE2dNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
     </section>

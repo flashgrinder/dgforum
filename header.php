@@ -5,11 +5,11 @@
     <meta charset="<?php bloginfo('charset'); ?>"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-M6JMCMW');</script>
+<!--    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':-->
+<!--    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],-->
+<!--    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=-->
+<!--    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);-->
+<!--    })(window,document,'script','dataLayer','GTM-M6JMCMW');</script>-->
     <!-- End Google Tag Manager -->
     <? wp_head(); ?>
 </head>
@@ -17,8 +17,8 @@
 <body class="page bg--white">
 
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M6JMCMW"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!--    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M6JMCMW"-->
+<!--    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>-->
     <!-- End Google Tag Manager (noscript) -->
 
     <!-- Preloader -->
@@ -91,12 +91,12 @@
                 <nav class="header__menu menu">
                     <ul class="header__menu-list menu__list">
                         <li class="header__menu-item menu__item js-anchor-link">
-                            <a href="<?php echo home_url(); ?>#event" class="menu__link">
+                            <a href="#event" class="menu__link">
                                 О мероприятии
                             </a>
                         </li>
                         <li class="header__menu-item menu__item js-anchor-link">
-                            <a href="<?php echo home_url(); ?>#discussions" class="menu__link">
+                            <a href="#discussions" class="menu__link">
                                 Дискуссии
                             </a>
                         </li>
@@ -106,7 +106,7 @@
                             </a>
                         </li>
                         <li class="header__menu-item menu__item js-anchor-link">
-                            <a href="<?php echo home_url(); ?>#partners" class="menu__link">
+                            <a href="#partners" class="menu__link">
                                 Партнёры
                             </a>
                         </li>
