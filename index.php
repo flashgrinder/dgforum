@@ -291,16 +291,16 @@
                 <article class="team-card gs-reveal">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR; ?>img/discus/petrov.jpg" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/discus/burnaev.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Михаил Петров
+                                Евгений Бурнаев
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Директор департамента цифровой трансформации, ВЭБ.РФ
+                                Профессор, руководитель центра прикладного ИИ Сколтеха
                             </p>
                         </div>
                     </div>
@@ -326,23 +326,23 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-<!--                <article class="team-card gs-reveal">-->
-<!--                    <aside class="team-card__aside">-->
-<!--                        <figure class="team-card__figure">-->
-<!--                            <img src="--><?php //echo STANDART_DIR; ?><!--img/team/putyatinski.png" alt="" class="team-card__photo">-->
-<!--                        </figure>-->
-<!--                    </aside>-->
-<!--                    <div class="team-card__body">-->
-<!--                        <div class="team-card__text">-->
-<!--                            <h3 class="team-card__heading title title--small title--dark title--w-regular">-->
-<!--                               Сергей Путятинский-->
-<!--                            </h3>-->
-<!--                            <p class="team-card__descr text text--normal text--dark text--w-light">-->
-<!--                                Заместитель председателя правления «МОСКОВСКИЙ КРЕДИТНЫЙ БАНК» (публичное акционерное общество)-->
-<!--                            </p>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </article>-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/discus/goncharov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Игорь Гончаров
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Руководитель Службы управления данными "Уралсиб"
+                            </p>
+                        </div>
+                    </div>
+                </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
 <!--                <article class="team-card gs-reveal">-->
@@ -623,56 +623,46 @@
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-3.jpg" alt="" class="discus__img">
                     </div>
                 </article>
-                <div class="discus__speakers gs-reveal hide">
+                <h2 class="team__heading title title--medium title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left hide">
+                    Приглашены к участию:
+                </h2>
+                <div class="discus__speakers gs-reveal">
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/naumov.jpeg" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/sergeev.jpg" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Данила Наумов
+                                Сергей Сергеев
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Директор офиса больших данных, "М.Видео-Эльдорадо"
+                                Директор по цифровым инновациям и IT «Лента»
                             </div>
                         </div>
                     </div>
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/discus/sergeev.jpg" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/discus/kartusheva.jpg" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Cергей Сергеев
+                                Татьяна Картушева
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Директор по цифровым инновациям и IT , "Лента"
+                                Руководитель НСИ «СИБУР Диджитал»
                             </div>
                         </div>
                     </div>
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/discus/oreshkin.jpg" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/discus/goncharov.jpg" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Сергей Орешкин
+                                Игорь Гончаров
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Директор департамента по работе с данными, ПАО Московская Биржа
-                            </div>
-                        </div>
-                    </div>
-                    <div class="discus__speaker">
-                        <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/pervuhin.jpg" alt="" class="discus__speaker-img">
-                        </div>
-                        <div class="discus__speaker-text">
-                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Дмитрий Первухин
-                            </div>
-                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Вице-Президент, Директор департамента развития учетных и аналитических систем, ПАО Банк "ФК Открытие"
+                                Руководитель Службы управления данными "Уралсиб"
                             </div>
                         </div>
                     </div>
@@ -817,14 +807,14 @@
 <!--                                Директор по ИТ «Росатома»-->
 <!--                            </div>-->
 <!--                        </div>-->
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Михаил Петров
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Директор департамента цифровой трансформации, ВЭБ.РФ
-                            </div>
-                        </div>
+<!--                        <div class="programm__man">-->
+<!--                            <div class="programm__man-name text text--normal text--dark text--w-semibold">-->
+<!--                                Михаил Петров-->
+<!--                            </div>-->
+<!--                            <div class="programm__man-rank text text--normal text--dark text--w-light">-->
+<!--                                Директор департамента цифровой трансформации, ВЭБ.РФ-->
+<!--                            </div>-->
+<!--                        </div>-->
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Дмитрий Лепешкин
@@ -905,11 +895,11 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Данные на службе госкомпании: опыт «Газпром нефти»
+                            Данные на службе госкомпании
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Представитель «Газпром нефти»
+                                Спикер уточняется
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
 
@@ -1103,6 +1093,14 @@
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Руководитель НСИ «СИБУР Диджитал»
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Игорь Гончаров
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Руководитель Службы управления данными "Уралсиб"
                             </div>
                         </div>
                         <div class="programm__man">
@@ -1335,7 +1333,7 @@
                         <img src="<?php echo STANDART_DIR; ?>img/partners/yandex.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
-                        <img src="<?php echo STANDART_DIR; ?>img/partners/mts.jpg" alt="" class="partners__logo">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/pix.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/tarantool.png" alt="" class="partners__logo">
