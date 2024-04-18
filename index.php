@@ -212,7 +212,7 @@
                         Борис Рабинович
                     </h3>
                     <p class="members__position text text--large text--dark text--w-regular">
-                        Старший управляющий директор – директор Департамента управления данными (SberData) ПАО Сбербанк
+                        Старший управляющий директор - директор Департамента управления данными, CDO Сбер
                     </p>
                 </article>
             </div>
@@ -345,25 +345,6 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-<!--                <article class="team-card gs-reveal">-->
-<!--                    <aside class="team-card__aside">-->
-<!--                        <figure class="team-card__figure">-->
-<!--                            <img src="--><?php //echo STANDART_DIR; ?><!--img/team/pervuhin.jpg" alt="" class="team-card__photo">-->
-<!--                        </figure>-->
-<!--                    </aside>-->
-<!--                    <div class="team-card__body">-->
-<!--                        <div class="team-card__text">-->
-<!--                            <h3 class="team-card__heading title title--small title--dark title--w-regular">-->
-<!--                                Дмитрий Первухин-->
-<!--                            </h3>-->
-<!--                            <p class="team-card__descr text text--normal text--dark text--w-light">-->
-<!--                                Вице-Президент, Директор департамента развития учетных и аналитических систем, ПАО Банк "ФК Открытие"-->
-<!--                            </p>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </article>-->
-                <!-- /. Team-card -->
-                <!-- Team-card -->
                 <article class="team-card gs-reveal">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
@@ -452,7 +433,45 @@
                                 Борис Рабинович
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                CDO Сбербанка
+                                Старший управляющий директор - директор Департамента управления данными, CDO Сбер
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/members/shevcov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Николай Шевцов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                CDO OTP Bank Russia
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/members/venevcev.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Веневцев Андрей
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Департамент информационных систем и сервисов, директор (направление НСИ) Фонд Сколково
                             </p>
                         </div>
                     </div>
@@ -560,7 +579,7 @@
                                 Борис Рабинович
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Старший управляющий директор Департамента управления данными (SberData)
+                                Старший управляющий директор - директор Департамента управления данными, CDO Сбер
                             </div>
                         </div>
                     </div>
@@ -799,22 +818,22 @@
                                 Приглашены к участию:
                             </div>
                         </div>
-<!--                        <div class="programm__man">-->
-<!--                            <div class="programm__man-name text text--normal text--dark text--w-semibold">-->
-<!--                                Евгений Абакумов-->
-<!--                            </div>-->
-<!--                            <div class="programm__man-rank text text--normal text--dark text--w-light">-->
-<!--                                Директор по ИТ «Росатома»-->
-<!--                            </div>-->
-<!--                        </div>-->
-<!--                        <div class="programm__man">-->
-<!--                            <div class="programm__man-name text text--normal text--dark text--w-semibold">-->
-<!--                                Михаил Петров-->
-<!--                            </div>-->
-<!--                            <div class="programm__man-rank text text--normal text--dark text--w-light">-->
-<!--                                Директор департамента цифровой трансформации, ВЭБ.РФ-->
-<!--                            </div>-->
-<!--                        </div>-->
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Представитель «Росатом»
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Представитель «Газпром нефть»
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+
+                            </div>
+                        </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Дмитрий Лепешкин
@@ -884,7 +903,7 @@
                                 Борис Рабинович
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                CDO Сбербанка
+                                Старший управляющий директор - директор Департамента управления данными, CDO Сбер
                             </div>
                         </div>
                     </div>
@@ -941,15 +960,7 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                РЖД
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                «Уралсиб»
+                                АК «Алроса»
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
 
@@ -1011,10 +1022,10 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Спикер уточняется
+                                Веневцев Андрей
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-
+                                Департамент информационных систем и сервисов, директор (направление НСИ) Фонд Сколково
                             </div>
                         </div>
                     </div>
@@ -1073,7 +1084,7 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                К участию приглашены:
+                                Участники дискуссии:
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
 
@@ -1100,15 +1111,7 @@
                                 Игорь Гончаров
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Руководитель Службы управления данными "Уралсиб"
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Представитель АК «АЛРОСА»
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-
+                                Руководитель Службы управления данными «Уралсиб»
                             </div>
                         </div>
                     </div>
