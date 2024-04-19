@@ -1390,9 +1390,6 @@
                     <a href="https://www.it-world.ru/" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/itworld.png" alt="" class="partners__logo">
                     </a>
-                    <a href="javascript:;" class="partners__item swiper-slide">
-                        <img src="<?php echo STANDART_DIR; ?>img/partners/globalcio.png" alt="" class="partners__logo">
-                    </a>
                     <a href="https://cisoclub.ru/" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/cisco.png" alt="" class="partners__logo">
                     </a>
@@ -1436,7 +1433,7 @@
                         <img src="<?php echo STANDART_DIR; ?>img/partners/bo.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
-                        <img src="<?php echo STANDART_DIR; ?>img/partners/opensystems.png" alt="" class="partners__logo">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/opensystems.svg" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/tadviser.png" alt="" class="partners__logo">
