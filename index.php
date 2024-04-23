@@ -477,6 +477,25 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/klepikov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Клепиков Алексей
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Вице-президент, Член Правления, Руководитель Информационно-технологического кластера МТС Банка
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
             </div>
         </div>
     </section>
@@ -878,7 +897,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Цифровой ИИ, что работает уже сейчас
+                            Прикладной ИИ и индустриальные приложения
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -944,7 +963,7 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                К участию приглашены представители компаний:
+                                К участию приглашены:
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
 
@@ -952,7 +971,7 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Группа НЛМК
+                                Представитель Группы НЛМК
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
 
@@ -960,15 +979,23 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                АК «Алроса»
+                                Ринат Абдурахманов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-
+                                МКБ
                             </div>
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                «ВымпелКом»
+                                Клепиков Алексей
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Вице-президент, Член Правления, Руководитель Информационно-технологического кластера МТС Банка
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Представитель МКБ
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
 
@@ -1382,7 +1409,7 @@
                         <img src="<?php echo STANDART_DIR; ?>img/partners/financetime.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
-                        <img src="<?php echo STANDART_DIR; ?>img/partners/itspeaker.png" alt="" class="partners__logo">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/itspeaker.jpg" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/tagline.png" alt="" class="partners__logo">
