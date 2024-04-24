@@ -1394,9 +1394,6 @@
             <div class="partners__wrapper-items partners__item--slider-two swiper-container">
                 <div class="partners__items swiper-wrapper">
                     <a href="javascript:;" class="partners__item swiper-slide">
-                        <img src="<?php echo STANDART_DIR; ?>img/partners/bisjurnal.png" alt="" class="partners__logo">
-                    </a>
-                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/dmk.png" alt="" class="partners__logo">
                     </a>
                     <a href="https://it-rating.top/afisha/" class="partners__item swiper-slide" target="_blank">
