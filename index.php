@@ -496,6 +496,25 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/erikalov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Василий Ерыкалов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Главный архитектор ДИТ ГК «Росатом»
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
             </div>
         </div>
     </section>
@@ -788,7 +807,7 @@
                     </div>
                     <div class="programm__info gs-reveal gs-reveal--from-right">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Новый национальный приоритет
+                            Управление данными - национальный приоритет
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
@@ -825,7 +844,7 @@
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--blue title--w-semibold">
                             Дискуссия 1.
-                            Экономика данных: как управление данными помогает госкорпорациям быть эффективными
+                            Как управление данными помогает госкорпорациям быть эффективными
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -839,10 +858,10 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Представитель «Росатом»
+                                Василий Ерыкалов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-
+                                Главный архитектор ДИТ ГК «Росатом»
                             </div>
                         </div>
                         <div class="programm__man">
@@ -859,6 +878,14 @@
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Директор по информационно-аналитическим технологиям АО «Российские космические системы»
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Екатерина Кваша
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Центр стратегических разработок
                             </div>
                         </div>
                     </div>
@@ -933,14 +960,14 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Данные на службе госкомпании
+                            Точки применения генеративного ИИ: тренды, кейсы и MVP
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Спикер уточняется
+                                Елена Овцына
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-
+                                Руководитель  направления инновационных продуктов «Лента»
                             </div>
                         </div>
                     </div>
@@ -982,7 +1009,7 @@
                                 Ринат Абдурахманов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                МКБ
+                                Директор департамента управления данными МКБ
                             </div>
                         </div>
                         <div class="programm__man">
@@ -991,14 +1018,6 @@
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Вице-президент, Член Правления, Руководитель Информационно-технологического кластера МТС Банка
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Представитель МКБ
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-
                             </div>
                         </div>
                     </div>
@@ -1139,6 +1158,14 @@
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Руководитель Службы управления данными «Уралсиб»
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Константин Смирнов
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Управляющий директор «Корус»
                             </div>
                         </div>
                     </div>
@@ -1350,7 +1377,7 @@
     <section class="partners block-padding" id="partners">
         <div class="partners__body container">
             <h2 class="partners__heading title title--big title--dark title--w-semibold title--indent">
-                При поддержке
+                Партнеры Саммита
             </h2>
         </div>
         <div class="partners__outer container-page">
