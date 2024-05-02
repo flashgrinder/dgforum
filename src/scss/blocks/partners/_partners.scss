@@ -29,3 +29,20 @@
     display: block;
     max-height: 100px;
 }
+
+.partners__wrap-top {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    @include tabletSM-block {
+        flex-wrap: wrap;
+    }
+}
+
+.partners__figure {
+    display: block;
+    margin: 0;
+    text-align: center;
+}

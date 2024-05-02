@@ -1863,6 +1863,20 @@ img {
   max-height: 100px;
 }
 
+.partners__wrap-top {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.partners__figure {
+  display: block;
+  margin: 0;
+  text-align: center;
+}
+
 /* Invite */
 
 .invite__video iframe {
@@ -2120,6 +2134,10 @@ img {
 }
 
 @media screen and (max-width: 992px) {
+  .partners__wrap-top {
+    flex-wrap: wrap;
+  }
+
   .labs__inner {
     grid-template-columns: 1fr;
   }

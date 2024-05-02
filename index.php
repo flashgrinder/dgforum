@@ -509,7 +509,7 @@
                                 Василий Ерыкалов
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Главный архитектор ДИТ ГК «Росатом»
+                                Заместитель начальника Управления технической политики в ИТ - главный архитектор ГК "Росатом"
                             </p>
                         </div>
                     </div>
@@ -861,7 +861,7 @@
                                 Василий Ерыкалов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Главный архитектор ДИТ ГК «Росатом»
+                                Заместитель начальника Управления технической политики в ИТ - главный архитектор ГК "Росатом"
                             </div>
                         </div>
                         <div class="programm__man">
@@ -1413,9 +1413,17 @@
     <!-- Partners -->
     <section class="partners block-padding" id="partners">
         <div class="partners__body container">
-            <h2 class="partners__heading title title--big title--dark title--w-semibold title--indent">
-                Информационные партнеры
-            </h2>
+            <div class="partners__wrap-top">
+                <h2 class="partners__heading title title--big title--dark title--w-semibold">
+                    Информационные партнеры
+                </h2>
+                <figure class="partners__figure">
+                    <img class="partners__figure-img" src="<?php echo STANDART_DIR; ?>img/partners/prim.png" alt="">
+                    <figcaption>
+                        Генеральный информационный партнер
+                    </figcaption>
+                </figure>
+            </div>
         </div>
         <div class="partners__outer container-page">
             <div class="partners__wrapper-items partners__item--slider-two swiper-container">
@@ -1526,7 +1534,7 @@
                 Как это было в 2023 году
             </h2>
             <div class="invite__video gs-reveal gs-reveal--from-left">
-                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/3HA3aCm3WUA?si=D8_yvTN5XjyE2dNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe loading="lazy" width="100%" height="100%" src="https://www.youtube.com/embed/3HA3aCm3WUA?si=D8_yvTN5XjyE2dNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
     </section>
