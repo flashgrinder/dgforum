@@ -1038,7 +1038,7 @@
                                 Эксперт «Юниверс Дата»
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Руководитель  направления инновационных продуктов «Лента»
+
                             </div>
                         </div>
                     </div>
