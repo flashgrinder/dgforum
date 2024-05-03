@@ -231,44 +231,6 @@
             </h2>
             <div class="team__items">
                 <!-- Team-card -->
-<!--                <article class="team-card gs-reveal">-->
-<!--                    <aside class="team-card__aside">-->
-<!--                        <figure class="team-card__figure">-->
-<!--                            <img src="--><?php //echo STANDART_DIR; ?><!--img/members/hatovich.jpg" alt="" class="team-card__photo">-->
-<!--                        </figure>-->
-<!--                    </aside>-->
-<!--                    <div class="team-card__body">-->
-<!--                        <div class="team-card__text">-->
-<!--                            <h3 class="team-card__heading title title--small title--dark title--w-regular">-->
-<!--                                Максим Хайтович-->
-<!--                            </h3>-->
-<!--                            <p class="team-card__descr text text--normal text--dark text--w-light">-->
-<!--                                Заместитель директора ФКУ «ГосТех»-->
-<!--                            </p>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </article>-->
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-<!--                <article class="team-card gs-reveal">-->
-<!--                    <aside class="team-card__aside">-->
-<!--                        <figure class="team-card__figure">-->
-<!--                            <img src="--><?php //echo STANDART_DIR; ?><!--img/discus/abakumov.jpg" alt="" class="team-card__photo">-->
-<!--                        </figure>-->
-<!--                    </aside>-->
-<!--                    <div class="team-card__body">-->
-<!--                        <div class="team-card__text">-->
-<!--                            <h3 class="team-card__heading title title--small title--dark title--w-regular">-->
-<!--                                Евгений Абакумов-->
-<!--                            </h3>-->
-<!--                            <p class="team-card__descr text text--normal text--dark text--w-light">-->
-<!--                                IT директор, "Росатом"-->
-<!--                            </p>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </article>-->
-                <!-- /. Team-card -->
-                <!-- Team-card -->
                 <article class="team-card gs-reveal">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
@@ -510,6 +472,82 @@
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Заместитель начальника Управления технической политики в ИТ - главный архитектор ГК "Росатом"
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/naiman.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Алексей Нейман
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Исполнительный директор, Ассоциация больших данных
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/rinata.jpeg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Ринат Абдурахманов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Директор департамента управления данными МКБ
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/belaev.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Беляев Владислав
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Директор по информационным технологиям ГК Черкизово
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/geraskin.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Гераськин Дмитрий
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Руководитель проектов, ИТ бизнес-партнер ЕВРАЗ
                             </p>
                         </div>
                     </div>
@@ -792,11 +830,43 @@
                             Качественно новые принципы работы с данными
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Интервью с представителями:
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Ведущий: Павел Лихницкий
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                «Газпром нефть», ВТБ Банк, Казначейства России
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Генеральный директор DIS Group
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                К участию приглашены:
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Владислав Беляев
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Директор по информационным технологиям ГК Черкизово
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Представитель  «Газпром нефть»
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Представитель Яндекс
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+
                             </div>
                         </div>
                     </div>
@@ -825,14 +895,15 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Конкуренция будущего
+                            Цифровая экосистема Сбербанка
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Лариса Малькова
+                                Борис Рабинович
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Управляющий директор Axenix
+                                Старший управляющий директор - директор Департамента управления данными
+                                CDO Сбер
                             </div>
                         </div>
                     </div>
@@ -906,25 +977,43 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Российские инновации: технологические ответы на требования бизнеса
+                            Конкуренция будущего
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Эксперт «Юниверс Дата»
+                                Лариса Малькова
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-
+                                Управляющий директор Axenix
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:45 - 13:05
+                        12:45 - 13:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Прикладной ИИ и индустриальные приложения
+                            Тема на согласовании
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Алексей Нейман
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Исполнительный директор, Ассоциация больших данных
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        13:00 - 13:20
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Прикладной ИИ и индустриальные приложения
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -938,36 +1027,36 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:05 - 13:30
+                        13:20 - 13:35
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Цифровая экосистема Сбербанка
+                            Российские инновации: технологические ответы на требования бизнеса
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Борис Рабинович
+                                Эксперт «Юниверс Дата»
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Старший управляющий директор - директор Департамента управления данными, CDO Сбер
+                                Руководитель  направления инновационных продуктов «Лента»
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:30 - 13:50
+                        13:35 - 13:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Точки применения генеративного ИИ: тренды, кейсы и MVP
+                            Опыт Галамарт: внедрение МДМ в ритейле
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Елена Овцына
+                                Фурашев Артём
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Руководитель  направления инновационных продуктов «Лента»
+                                Руководитель отдела интернет-разработки Департамент управления данными Галамарт
                             </div>
                         </div>
                     </div>
@@ -1020,6 +1109,14 @@
                                 Вице-президент, Член Правления, Руководитель Информационно-технологического кластера МТС Банка
                             </div>
                         </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Гераськин Дмитрий
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Руководитель проектов, ИТ бизнес-партнер ЕВРАЗ
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -1042,7 +1139,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:00 - 15:25
+                        15:00 - 15:20
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1060,7 +1157,25 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:25 - 15:40
+                        15:20 - 15:35
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Точки применения генеративного ИИ: тренды, кейсы и MVP
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Елена Овцына
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Руководитель  направления инновационных продуктов «Лента»
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        15:35 - 15:55
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1078,7 +1193,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:40 - 15:55
+                        15:55 - 16:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1090,24 +1205,6 @@
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 CDO OTP Bank Russia
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:55 - 16:15
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Цифровые сервисы. Оцените зрелость вашей компании
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Александр Кулик
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Эксперт DIS Group
                             </div>
                         </div>
                     </div>
@@ -1165,14 +1262,32 @@
                                 Константин Смирнов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Управляющий директор «Корус»
+                                Управляющий директор «КОРУС Консалтинг»
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:50 - 17:10
+                        16:50 - 17:05
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Цифровые сервисы. Оцените зрелость вашей компании
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Александр Кулик
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Эксперт DIS Group
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        17:05 - 17:20
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1190,7 +1305,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        17:10 - 17:30
+                        17:20 - 17:40
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1208,7 +1323,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        17:30 - 18:00
+                        17:40 - 18:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--violet title--w-semibold">
@@ -1361,10 +1476,10 @@
     <!-- /. Discus -->
 
     <!-- Plan -->
-    <section class="plan block-padding hide">
+    <section class="plan block-padding">
         <div class="plan__body container">
             <h2 class="plan__heading title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
-                План расположения стендов в демозоне
+                Демозона
             </h2>
             <div class="plan__pic">
                 <img src="<?php echo STANDART_DIR; ?>img/plan.jpg" alt="" class="plan__pic">
@@ -1393,10 +1508,19 @@
                         <img src="<?php echo STANDART_DIR; ?>img/partners/pix.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/korus.png" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/rostelecom.png" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/ydata.png" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/tarantool.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
-                        <img src="<?php echo STANDART_DIR; ?>img/partners/tern.jpg" alt="" class="partners__logo">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/tern.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/jet.png" alt="" class="partners__logo">
@@ -1489,7 +1613,7 @@
                         <img src="<?php echo STANDART_DIR; ?>img/partners/nbj.png" alt="" class="partners__logo">
                     </a>
                     <a href="https://bosfera.ru" class="partners__item swiper-slide" target="_blank">
-                        <img src="<?php echo STANDART_DIR; ?>img/partners/bo.png" alt="" class="partners__logo">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/bo.jpg" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/opensystems.svg" alt="" class="partners__logo">
