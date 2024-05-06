@@ -823,7 +823,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:35 - 10:55
+                        10:30 - 10:55
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -933,14 +933,6 @@
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Заместитель начальника Управления технической политики в ИТ - главный архитектор ГК "Росатом"
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Представитель «Газпром нефть»
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-
                             </div>
                         </div>
                         <div class="programm__man">
@@ -1523,6 +1515,9 @@
                         <img src="<?php echo STANDART_DIR; ?>img/partners/tern.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/k2.svg" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/jet.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
@@ -1565,7 +1560,7 @@
                         <img src="<?php echo STANDART_DIR; ?>img/partners/financetime.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
-                        <img src="<?php echo STANDART_DIR; ?>img/partners/itspeaker.jpg" alt="" class="partners__logo">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/itspeaker.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/tagline.png" alt="" class="partners__logo">
