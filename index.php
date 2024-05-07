@@ -553,6 +553,25 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/janbaev.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Андрей Джанбаев
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Директор по архитектуре и IT-стратегии Группы НЛМК
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
             </div>
         </div>
     </section>
@@ -645,57 +664,59 @@
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-2.jpg" alt="" class="discus__img">
                     </div>
                 </article>
-                <div class="discus__speakers gs-reveal hide">
+                <h2 class="team__heading title title--medium title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left hide">
+                    Приглашены к участию:
+                </h2>
+                <div class="discus__speakers gs-reveal">
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/discus/rubinovich.jpg" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/janbaev.jpg" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Борис Рабинович
+                                Андрей Джанбаев
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Старший управляющий директор - директор Департамента управления данными, CDO Сбер
+                                Директор по архитектуре и IT-стратегии Группы НЛМК
                             </div>
                         </div>
                     </div>
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/discus/rudakov.png" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/rinata.jpeg" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Дмитрий Рудаков
+                                Ринат Абдурахманов
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Руководитель направления архитектуры НСИ, СУЭК
+                                Директор департамента управления данными МКБ
                             </div>
                         </div>
                     </div>
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/discus/kartusheva.jpg" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/klepikov.jpg" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Татьяна Картушева
+                                Клепиков Алексей
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Руководитель группы НСИ <br>
-                                Управление нормативно-справочной информации ООО "СИБУР ДИДЖИТАЛ"
+                                Вице-президент, Член Правления, Руководитель Информационно-технологического кластера МТС Банка
                             </div>
                         </div>
                     </div>
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/discus/ivanov.jpg" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/geraskin.jpg" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Сергей Иванов
+                                Гераськин Дмитрий
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Технический директор Ренессанс Страхование
+                                Руководитель проектов, ИТ бизнес-партнер ЕВРАЗ
                             </div>
                         </div>
                     </div>
@@ -861,14 +882,6 @@
 
                             </div>
                         </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Представитель Яндекс
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-
-                            </div>
-                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -1027,10 +1040,10 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Эксперт «Юниверс Дата»
+                                Александр Константинов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-
+                                Коммерческий директор «Юниверс Дата»
                             </div>
                         </div>
                     </div>
@@ -1079,10 +1092,10 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Представитель Группы НЛМК
+                                Андрей Джанбаев
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-
+                                Директор по архитектуре и IT-стратегии Группы НЛМК
                             </div>
                         </div>
                         <div class="programm__man">
