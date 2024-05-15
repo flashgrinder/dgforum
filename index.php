@@ -572,6 +572,44 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/smirnov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Константин Смирнов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Управляющий директор «КОРУС Консалтинг»
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/kvasha.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Екатерина Кваша
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Заместитель генерального директора, Фонд «Центр стратегических разработок»
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
             </div>
         </div>
     </section>
@@ -605,19 +643,19 @@
                 <h2 class="team__heading title title--medium title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left hide">
                     Приглашены к участию:
                 </h2>
-                <div class="discus__speakers gs-reveal hide">
+                <div class="discus__speakers gs-reveal">
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/discus/abakumov.jpg" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/erikalov.jpg" alt="" class="discus__speaker-img">
                         </div>
-<!--                        <div class="discus__speaker-text">-->
-<!--                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">-->
-<!--                                Евгений Абакумов-->
-<!--                            </div>-->
-<!--                            <div class="discus__speaker-position text text--normal text--dark text--w-light">-->
-<!--                                IT директор, "Росатом"-->
-<!--                            </div>-->
-<!--                        </div>-->
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Василий Ерыкалов
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Заместитель начальника Управления технической политики в ИТ - главный архитектор ГК «Росатом»
+                            </div>
+                        </div>
                     </div>
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
@@ -634,14 +672,14 @@
                     </div>
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/discus/petrov.jpg" alt="" class="discus__speaker-img">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/kvasha.jpg" alt="" class="discus__speaker-img">
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Михаил Петров
+                                Екатерина Кваша
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Директор департамента цифровой трансформации, ВЭБ.РФ
+                                Заместитель генерального директора, Фонд «Центр стратегических разработок»
                             </div>
                         </div>
                     </div>
@@ -782,6 +820,19 @@
                             </div>
                         </div>
                     </div>
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/smirnov.jpg" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Константин Смирнов
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Управляющий директор «КОРУС Консалтинг»
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -876,10 +927,10 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Представитель  «Газпром нефть»
+                                Щеверов Андрей Юрьевич
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-
+                                Руководитель по цифровой трансформации, Счетная Палата РФ
                             </div>
                         </div>
                     </div>
@@ -1000,7 +1051,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Тема на согласовании
+                            Рынок данных и ИИ в России
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
