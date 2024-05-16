@@ -1630,6 +1630,13 @@ img {
   height: 100%;
 }
 
+.members.members--banner .members__items {
+  display: grid;
+  grid-template-columns: minmax(300px, 1fr) minmax(300px, 600px);
+  gap: 30px;
+  align-items: center;
+}
+
 /* Team */
 
 .team__items {
@@ -2214,6 +2221,10 @@ img {
     -o-object-fit: cover;
        object-fit: cover;
     opacity: 0.5;
+  }
+
+  .members.members--banner .members__items {
+    grid-template-columns: 1fr;
   }
 
   .discus__article {

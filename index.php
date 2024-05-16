@@ -153,7 +153,7 @@
     <!-- /. Register -->
 
     <!-- Members -->
-    <section class="members bg--white block-padding">
+    <section class="members members--banner bg--white block-padding">
         <div class="members__body container">
             <h2 class="members__heading title title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
                 Ведущая:
@@ -170,6 +170,11 @@
                         Ведущая, телеканал РБК
                     </p>
                 </article>
+                <div class="members__item-pic">
+                    <div class="members__pic">
+                        <img src="<?php echo STANDART_DIR; ?>img/members-banner.png" alt="" class="members__img">
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -604,7 +609,7 @@
                                 Екатерина Кваша
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Заместитель генерального директора, Фонд «Центр стратегических разработок»
+                                Заместитель генерального директора, «Центр стратегических разработок»
                             </p>
                         </div>
                     </div>
@@ -679,7 +684,7 @@
                                 Екатерина Кваша
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Заместитель генерального директора, Фонд «Центр стратегических разработок»
+                                Заместитель генерального директора, «Центр стратегических разработок»
                             </div>
                         </div>
                     </div>
@@ -1012,7 +1017,7 @@
                                 Екатерина Кваша
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Центр стратегических разработок
+                                Заместитель генерального директора, «Центр стратегических разработок»
                             </div>
                         </div>
                     </div>
@@ -1586,6 +1591,12 @@
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/nubes.svg" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/groteck.jpg" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/softline.png" alt="" class="partners__logo">
                     </a>
                 </div>
             </div>

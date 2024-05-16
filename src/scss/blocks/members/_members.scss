@@ -31,3 +31,13 @@
     width: 100%;
     height: 100%;
 }
+
+.members.members--banner .members__items {
+    display: grid;
+    grid-template-columns: minmax(300px, 1fr) minmax(300px, 600px);
+    gap: 30px;
+    align-items: center;
+    @include mobile-block {
+        grid-template-columns: 1fr;
+    }
+}
