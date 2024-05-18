@@ -615,6 +615,25 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/konstantinov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Александр Константинов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Коммерческий директор «Юниверс Дата»
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
             </div>
         </div>
     </section>
@@ -1384,21 +1403,11 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        17:40 - 18:00
+                        17:40 - 21:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--violet title--w-semibold">
                             Фуршет, неформальное общение
-                        </h3>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        18:00 - 21:00
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--violet title--w-semibold">
-                            Вечернее шоу
                         </h3>
                     </div>
                 </div>
@@ -1540,6 +1549,19 @@
     <section class="plan block-padding">
         <div class="plan__body container">
             <h2 class="plan__heading title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
+                Программа мастер-классов
+            </h2>
+            <div class="plan__pic">
+                <img src="<?php echo STANDART_DIR; ?>img/program.png" alt="" class="plan__pic">
+            </div>
+        </div>
+    </section>
+    <!-- /. Plan -->
+
+    <!-- Plan -->
+    <section class="plan block-padding">
+        <div class="plan__body container">
+            <h2 class="plan__heading title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
                 Демозона
             </h2>
             <div class="plan__pic">
@@ -1591,9 +1613,6 @@
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/nubes.svg" alt="" class="partners__logo">
-                    </a>
-                    <a href="javascript:;" class="partners__item swiper-slide">
-                        <img src="<?php echo STANDART_DIR; ?>img/partners/groteck.jpg" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/softline.png" alt="" class="partners__logo">
@@ -1714,6 +1733,9 @@
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/tagline.png" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/groteck.png" alt="" class="partners__logo">
                     </a>
                 </div>
             </div>

@@ -54,14 +54,14 @@
                             +7 495 645-0201
                         </span>
                     </a>
-                    <div class="footer__info">
-                        <span class="footer__info-text text text--normal text--white text--w-light">
-                            Факс:
-                        </span>
-                        <span class="footer__info-text text text--normal text--white text--w-semibold">
-                            +7 495 645-0188
-                        </span>
-                    </div>
+<!--                    <div class="footer__info">-->
+<!--                        <span class="footer__info-text text text--normal text--white text--w-light">-->
+<!--                            Факс:-->
+<!--                        </span>-->
+<!--                        <span class="footer__info-text text text--normal text--white text--w-semibold">-->
+<!--                            +7 495 645-0188-->
+<!--                        </span>-->
+<!--                    </div>-->
                     <a href="mailto:forum@dis-group.ru" class="footer__info">
                         <span class="footer__info-text text text--normal text--white text--w-light">
                             E-mail:
