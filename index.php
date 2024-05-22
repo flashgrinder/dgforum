@@ -634,6 +634,44 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/otocki.jpeg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Петр Отоцкий
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Начальник отдела изучения и развития ИИ в сфере гос.управления, ВШГУ, Президентская Академия
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/berezina.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Елена Березина
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Руководитель службы управленческого учета и анализа, Банк ВТБ (ПАО)
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
             </div>
         </div>
     </section>
@@ -957,6 +995,14 @@
                                 Руководитель по цифровой трансформации, Счетная Палата РФ
                             </div>
                         </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Елена Березина
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Руководитель службы управленческого учета и анализа, Банк ВТБ (ПАО)
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -1037,6 +1083,14 @@
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Заместитель генерального директора, «Центр стратегических разработок»
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Екатерина Потапова
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Советник генерального директора АО Агропромцифра
                             </div>
                         </div>
                     </div>
@@ -1389,7 +1443,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Датафлот Репликация - российская замена Debezium и Oracle GoldenGate
+                            Тема на согласовании
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -1549,7 +1603,7 @@
     <section class="plan block-padding">
         <div class="plan__body container">
             <h2 class="plan__heading title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
-                Программа мастер-классов
+                Программа митапов
             </h2>
             <div class="plan__pic">
                 <img src="<?php echo STANDART_DIR; ?>img/program.png" alt="" class="plan__pic">
@@ -1735,7 +1789,7 @@
                         <img src="<?php echo STANDART_DIR; ?>img/partners/tagline.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
-                        <img src="<?php echo STANDART_DIR; ?>img/partners/groteck.png" alt="" class="partners__logo">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/groteck.jpg" alt="" class="partners__logo">
                     </a>
                 </div>
             </div>
