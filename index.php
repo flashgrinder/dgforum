@@ -913,6 +913,16 @@
             <div class="programm__list">
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
+                        9:00 - 10:00
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Регистрация офлайн участников, начало работы демозоны
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         10:00 - 10:10
                     </div>
                     <div class="programm__info">
@@ -1414,7 +1424,7 @@
                                 Александр Кулик
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Эксперт DIS Group
+                                Директор практики Digital & Data Transformation
                             </div>
                         </div>
                     </div>
