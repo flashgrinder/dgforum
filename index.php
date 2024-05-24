@@ -435,7 +435,7 @@
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Веневцев Андрей
+                                Андрей Веневцев
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Департамент информационных систем и сервисов, директор (направление НСИ) Фонд Сколково
@@ -454,7 +454,7 @@
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Клепиков Алексей
+                                Алексей Клепиков
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Вице-президент, Член Правления, Руководитель Информационно-технологического кластера МТС Банка
@@ -549,7 +549,7 @@
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Гераськин Дмитрий
+                                Дмитрий Гераськин
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Руководитель проектов, ИТ бизнес-партнер ЕВРАЗ
@@ -682,7 +682,7 @@
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Фурашов Артём
+                                Артём Фурашов
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Руководитель отдела интернет-разработки Департамент управления данными Галамарт
@@ -870,7 +870,7 @@
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Клепиков Алексей
+                                Алексей Клепиков
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
                                 Вице-президент, Член Правления, Руководитель Информационно-технологического кластера МТС Банка
@@ -883,7 +883,7 @@
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Гераськин Дмитрий
+                                Дмитрий Гераськин
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
                                 Руководитель проектов, ИТ бизнес-партнер ЕВРАЗ
@@ -1061,7 +1061,7 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Владислав Беляев
+                                Беляев Владислав
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Директор по информационным технологиям ГК Черкизово
@@ -1069,7 +1069,7 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Щеверов Андрей Юрьевич
+                                Андрей Щеверов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Руководитель по цифровой трансформации, Счетная Палата РФ
@@ -1267,7 +1267,7 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Фурашев Артём
+                                Артём Фурашов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Руководитель отдела интернет-разработки Департамент управления данными Галамарт
@@ -1317,7 +1317,7 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Клепиков Алексей
+                                Алексей Клепиков
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Вице-президент, Член Правления, Руководитель Информационно-технологического кластера МТС Банка
@@ -1325,7 +1325,7 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Гераськин Дмитрий
+                                Дмитрий Гераськин
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Руководитель проектов, ИТ бизнес-партнер ЕВРАЗ
@@ -1397,7 +1397,7 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Веневцев Андрей
+                                Андрей Веневцев
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Департамент информационных систем и сервисов, директор (направление НСИ) Фонд Сколково
@@ -1523,16 +1523,8 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Тема на согласовании
+                            Подведение итогов саммита
                         </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Спикер уточняется
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-
-                            </div>
-                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -1558,7 +1550,7 @@
                     Регистрируйся сейчас!
                 </h2>
                 <p class="register__descr text text--large text--white text--w-light gs-reveal gs-reveal--from-left">
-                    Среди участников, которые подключатся к нам онлайн, будут разыграны призы: колонка Алиса, беспроводные наушники и другие.
+                    Среди участников, которые будут присутствовать офлайн, будут разыграны призы: колонка Алиса и массажёры Yamaguchi. А самым активным онлайн участникам - дарим сертификаты!
                 </p>
                 <div class="register__action gs-reveal gs-reveal--from-left">
                     <a href="javascript:;" class="register__button button button--secondary" data-modal="#registration">
