@@ -448,25 +448,6 @@
                 <article class="team-card gs-reveal">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/klepikov.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Алексей Клепиков
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Вице-президент, Член Правления, Руководитель Информационно-технологического кластера МТС Банка
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card-->
-                <article class="team-card gs-reveal">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/erikalov.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
@@ -515,25 +496,6 @@
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Директор департамента управления данными МКБ
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card-->
-                <article class="team-card gs-reveal">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/belaev.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Беляев Владислав
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Директор по информационным технологиям ГК Черкизово
                             </p>
                         </div>
                     </div>
@@ -685,7 +647,7 @@
                                 Артём Фурашов
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Руководитель отдела интернет-разработки Департамент управления данными Галамарт
+                                Руководитель отдела управления данными Галамарт
                             </p>
                         </div>
                     </div>
@@ -724,6 +686,101 @@
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Советник генерального директора АО Агропромцифра
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/giacintov.png" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Олег Гиацинтов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Технический директор DIS Group
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/kulik.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Александр Кулик
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Директор практики Digital & Data Transformation
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/hasanov.jpeg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Василий Хасанов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Заместитель технического директора, DIS Group
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/usmanov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Руслан Усманов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Заместитель начальника Управления информационной инфраструктурой, Федеральное Казначейство РФ
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card-->
+                <article class="team-card gs-reveal">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/klepikov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Алексей Клепиков
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Вице-президент, Член Правления, Руководитель Информационно-технологического кластера МТС Банка
                             </p>
                         </div>
                     </div>
@@ -861,19 +918,6 @@
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
                                 Директор департамента управления данными МКБ
-                            </div>
-                        </div>
-                    </div>
-                    <div class="discus__speaker">
-                        <div class="discus__speaker-photo">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/klepikov.jpg" alt="" class="discus__speaker-img">
-                        </div>
-                        <div class="discus__speaker-text">
-                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Алексей Клепиков
-                            </div>
-                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Вице-президент, Член Правления, Руководитель Информационно-технологического кластера МТС Банка
                             </div>
                         </div>
                     </div>
@@ -1061,14 +1105,6 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Беляев Владислав
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Директор по информационным технологиям ГК Черкизово
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Андрей Щеверов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -1081,6 +1117,22 @@
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Руководитель службы управленческого учета и анализа, Банк ВТБ (ПАО)
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Алексей Клепиков
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Вице-президент, Член Правления, Руководитель Информационно-технологического кластера МТС Банка
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Руслан Усманов
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Заместитель начальника Управления информационной инфраструктурой, Федеральное Казначейство РФ.
                             </div>
                         </div>
                     </div>
@@ -1128,7 +1180,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--blue title--w-semibold">
-                            Дискуссия 1.
+                            Дискуссия:
                             Как управление данными помогает госкорпорациям быть эффективными
                         </h3>
                         <div class="programm__man">
@@ -1270,7 +1322,7 @@
                                 Артём Фурашов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Руководитель отдела интернет-разработки Департамент управления данными Галамарт
+                                Руководитель отдела управления данными Галамарт
                             </div>
                         </div>
                     </div>
@@ -1281,7 +1333,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--blue title--w-semibold">
-                            Дискуссия 2. Ваши данные готовы к ИИ?
+                            Дискуссия: Ваши данные готовы к ИИ?
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -1313,14 +1365,6 @@
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Директор департамента управления данными МКБ
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Алексей Клепиков
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Вице-президент, Член Правления, Руководитель Информационно-технологического кластера МТС Банка
                             </div>
                         </div>
                         <div class="programm__man">
@@ -1429,7 +1473,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--blue title--w-semibold">
-                            Дискуссия 3.  Проприетарное ПО и Open Source: риски и возможности
+                            Дискуссия: Проприетарное ПО и Open Source: риски и возможности
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -1512,7 +1556,7 @@
                                 Василий Хасанов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Эксперт DIS Group
+                                Заместитель технического директора, DIS Group
                             </div>
                         </div>
                     </div>
@@ -1715,6 +1759,9 @@
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/pix.png" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/sberteh.png" alt="" class="partners__logo">
                     </a>
                     <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/korus.png" alt="" class="partners__logo">
