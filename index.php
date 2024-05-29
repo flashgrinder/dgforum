@@ -27,7 +27,10 @@
                     </div>
                     <div class="main-screen__actions">
                         <a href="javascript:;" class="main-screen__button button button--secondary" data-modal="#registration">
-                            Зарегистрироваться
+                            Регистрация на офлайн
+                        </a>
+                        <a href="https://proofix.ru/data-summit/auth" class="main-screen__button button button--secondary">
+                            Регистрация на онлайн
                         </a>
                     </div>
                 </div>
@@ -723,7 +726,7 @@
                                 Александр Кулик
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Директор практики Digital & Data Transformation
+                                Директор практики Digital & Data Transformation DIS Group
                             </p>
                         </div>
                     </div>
@@ -1031,13 +1034,23 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Регистрация офлайн участников, начало работы демозоны
+                            Регистрация офлайн участников, начало работы демозоны
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:00 - 10:10
+                        10:00 - 10:06
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Шоу программа
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        10:07 - 10:17
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1055,7 +1068,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:10 - 10:30
+                        10:17 - 10:40
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1081,11 +1094,11 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:30 - 10:55
+                        10:40 - 11:10
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Качественно новые принципы работы с данными
+                            Мини-интервью: Качественно новые принципы работы с данными
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -1132,32 +1145,14 @@
                                 Руслан Усманов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Заместитель начальника Управления информационной инфраструктурой, Федеральное Казначейство РФ.
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
-                        10:55 - 11:15
-                    </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Управление данными - национальный приоритет
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Представитель Министерства цифрового развития, связи и массовых коммуникаций РФ
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-
+                                Заместитель начальника Управления информационной инфраструктурой, Федеральное Казначейство РФ
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        11:15 - 11:30
+                        11:10 - 11:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1538,7 +1533,7 @@
                                 Александр Кулик
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Директор практики Digital & Data Transformation
+                                Директор практики Digital & Data Transformation DIS Group
                             </div>
                         </div>
                     </div>
@@ -1563,7 +1558,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        17:20 - 17:40
+                        17:20 - 17:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1573,7 +1568,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        17:40 - 21:00
+                        17:30 - 21:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--violet title--w-semibold">

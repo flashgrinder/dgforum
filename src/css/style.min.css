@@ -1304,6 +1304,10 @@ img {
 
 .main-screen__actions {
   margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px;
 }
 
 .main-screen__text {
